@@ -1,0 +1,1201 @@
+product_id,category,season,current_stock,sales_rate_daily,historical_demand_30d,forecast_demand_30d,lead_time_days,in_transit_qty,supplier_reliability,promotion_active,seasonality_index,stockout_risk
+P1179,Clothing,Winter,76,4.84,123,146,15,29,0.96,0,0.78,No
+P0866,Sports,Spring,78,4.16,121,153,7,14,0.89,0,1.2,No
+P0102,Electronics,Spring,117,3.93,106,108,17,11,0.77,0,1.21,No
+P0440,Personal Care,Autumn,99,2.42,80,90,16,1,0.92,0,1.24,No
+P0059,Home & Kitchen,Summer,113,3.87,100,93,3,24,0.71,0,1.27,No
+P1121,Electronics,Spring,70,1.82,49,48,21,6,0.9,0,1.04,Yes
+P0324,Home & Kitchen,Summer,261,6.1,155,199,15,24,0.75,0,0.99,No
+P0975,Grocery,Summer,106,2.74,91,91,16,31,0.8,0,1.04,No
+P0412,Home & Kitchen,Spring,73,2.71,69,62,18,15,0.99,1,0.76,No
+P0856,Grocery,Spring,140,3.65,127,135,16,10,0.82,0,0.89,No
+P0821,Home & Kitchen,Summer,11,2.34,66,62,2,10,0.85,0,1.23,No
+P0045,Sports,Spring,25,1.28,47,43,10,2,0.98,0,0.89,No
+P0050,Home & Kitchen,Winter,50,2.79,74,80,6,16,0.7,0,1.04,No
+P0850,Grocery,Winter,39,2.03,49,50,10,12,0.85,0,0.99,No
+P0241,Personal Care,Summer,184,5.02,159,200,17,21,0.94,0,1.17,No
+P0171,Home & Kitchen,Autumn,124,3.23,95,102,15,28,0.79,1,1.27,No
+P0524,Home & Kitchen,Autumn,27,1.89,69,80,6,10,0.87,0,1.02,Yes
+P0766,Grocery,Summer,57,1.31,43,56,21,1,0.99,1,0.78,No
+P0839,Electronics,Summer,13,1.97,52,47,13,17,0.99,1,1.2,No
+P0424,Personal Care,Winter,22,3.68,89,103,15,14,0.8,0,1.25,Yes
+P0381,Personal Care,Spring,29,3.43,87,82,12,30,0.93,0,1.12,No
+P0610,Personal Care,Winter,231,4.83,124,151,13,16,0.83,0,0.9,No
+P0677,Personal Care,Autumn,82,2.0,65,85,8,18,0.74,1,1.21,No
+P0345,Home & Kitchen,Autumn,86,1.79,56,59,8,11,0.86,0,0.84,No
+P0110,Clothing,Winter,85,2.22,60,63,12,0,0.92,0,1.16,No
+P0278,Grocery,Winter,58,2.49,62,81,7,18,0.81,0,1.29,No
+P0678,Clothing,Winter,100,1.56,48,60,2,3,0.96,0,0.79,No
+P0571,Sports,Summer,136,2.68,97,117,8,13,0.84,0,1.08,No
+P0359,Clothing,Autumn,0,1.25,42,44,21,0,0.87,1,1.31,Yes
+P0599,Clothing,Autumn,38,3.32,116,98,9,16,0.81,0,0.9,No
+P0391,Electronics,Winter,24,2.8,89,115,16,2,0.95,1,1.23,Yes
+P0894,Clothing,Winter,41,1.26,34,26,21,15,0.9,0,1.28,Yes
+P0693,Personal Care,Autumn,44,1.66,54,42,13,12,0.86,1,0.95,No
+P0728,Clothing,Spring,98,4.52,160,187,12,13,0.81,1,1.29,No
+P0363,Sports,Summer,10,1.29,39,47,8,0,0.92,1,0.94,No
+P0597,Personal Care,Summer,53,2.19,78,73,17,0,0.89,0,1.29,No
+P0428,Personal Care,Winter,44,1.94,50,64,17,0,0.79,0,0.79,No
+P0071,Personal Care,Spring,50,4.03,103,136,17,10,0.91,1,1.15,Yes
+P0322,Electronics,Summer,2,3.49,92,124,8,0,0.99,1,1.02,Yes
+P0653,Sports,Summer,29,1.79,63,80,7,16,0.85,0,1.12,No
+P1066,Sports,Spring,55,6.7,209,184,14,43,0.89,0,0.89,Yes
+P0108,Clothing,Autumn,50,3.2,89,79,2,15,0.98,1,0.88,No
+P1109,Grocery,Spring,109,2.32,56,75,16,5,0.99,0,1.1,No
+P0356,Personal Care,Spring,35,2.52,64,70,17,22,0.99,1,0.84,No
+P0951,Clothing,Winter,127,2.98,83,67,19,29,0.96,0,1.09,No
+P0343,Electronics,Autumn,0,2.9,91,96,9,0,0.89,0,1.03,Yes
+P0355,Sports,Summer,34,3.48,101,111,10,31,0.85,0,1.12,Yes
+P0024,Grocery,Spring,21,1.49,54,53,8,0,0.92,0,1.32,No
+P0044,Clothing,Spring,66,2.25,59,51,7,0,0.91,0,0.96,No
+P0244,Electronics,Winter,124,4.18,118,124,19,38,0.82,0,1.35,No
+P0738,Grocery,Winter,11,6.34,169,198,2,0,0.86,0,0.99,No
+P1136,Home & Kitchen,Autumn,163,3.02,101,123,17,17,0.83,0,1.3,No
+P0368,Home & Kitchen,Winter,16,1.55,56,44,5,11,0.92,1,0.93,No
+P0164,Personal Care,Spring,186,6.43,182,156,6,9,0.92,1,0.8,No
+P1116,Grocery,Autumn,126,4.74,133,118,20,29,0.86,0,1.11,No
+P0333,Sports,Spring,87,4.46,135,172,7,14,0.89,0,1.25,No
+P0989,Personal Care,Summer,11,2.33,63,80,20,25,0.98,0,1.2,Yes
+P1173,Clothing,Spring,56,2.22,82,101,11,2,0.92,0,1.34,No
+P1002,Sports,Winter,129,3.71,132,168,10,0,0.94,1,0.84,No
+P0378,Personal Care,Summer,94,1.48,40,52,6,10,0.94,0,1.18,No
+P0310,Personal Care,Summer,28,1.5,55,72,5,10,0.99,1,1.21,No
+P0156,Sports,Summer,0,1.53,49,41,10,12,0.95,0,1.06,Yes
+P0211,Clothing,Autumn,56,4.11,106,117,16,0,0.76,0,1.22,Yes
+P0087,Electronics,Autumn,0,1.05,37,36,14,8,0.8,0,1.3,Yes
+P0169,Home & Kitchen,Summer,70,2.9,73,90,16,13,0.77,0,1.07,No
+P0995,Sports,Spring,139,2.73,69,60,11,11,0.99,0,0.82,No
+P0052,Grocery,Spring,0,2.93,88,76,20,15,0.89,0,1.09,Yes
+P0439,Home & Kitchen,Autumn,91,2.45,75,91,3,4,0.9,0,1.18,No
+P0550,Clothing,Autumn,48,3.06,76,76,15,18,0.79,0,0.92,No
+P0491,Personal Care,Winter,165,3.98,128,141,2,9,0.93,0,0.92,No
+P0426,Home & Kitchen,Spring,215,6.94,208,279,15,37,0.86,0,1.22,No
+P0136,Sports,Summer,90,2.14,72,55,17,14,0.85,1,0.86,No
+P1192,Grocery,Winter,199,4.88,118,113,16,47,0.85,0,1.31,No
+P0055,Grocery,Summer,33,1.56,55,60,20,15,0.93,0,1.03,No
+P0079,Home & Kitchen,Winter,30,2.24,76,82,15,23,0.99,0,0.86,No
+P0431,Home & Kitchen,Winter,107,3.36,93,120,12,29,0.86,0,1.19,No
+P0185,Electronics,Autumn,85,2.2,53,48,6,14,0.85,0,0.86,No
+P0057,Grocery,Winter,104,3.39,99,90,13,18,0.92,0,0.86,No
+P0943,Grocery,Autumn,103,2.56,93,86,21,18,0.99,0,1.2,No
+P0851,Grocery,Autumn,59,1.84,54,49,10,3,0.89,0,1.16,No
+P1164,Sports,Spring,36,2.01,49,54,10,7,0.99,0,0.95,No
+P0219,Grocery,Autumn,116,1.75,53,55,9,0,0.86,0,1.13,No
+P0845,Clothing,Spring,2,2.76,98,116,5,10,0.91,1,0.77,No
+P0114,Sports,Summer,113,3.5,85,100,20,18,0.97,0,0.95,No
+P0549,Grocery,Winter,85,4.32,126,155,17,30,0.79,0,0.82,No
+P1019,Home & Kitchen,Autumn,93,1.94,69,92,16,0,0.94,0,0.78,No
+P1073,Electronics,Autumn,133,4.27,118,102,10,21,0.98,0,0.93,No
+P0175,Clothing,Winter,44,2.89,74,72,18,18,0.93,1,1.27,Yes
+P1023,Personal Care,Winter,134,3.25,82,72,5,19,0.89,0,0.81,No
+P0616,Clothing,Spring,56,2.63,83,98,8,15,0.85,0,0.82,No
+P0514,Clothing,Summer,45,2.39,64,77,21,12,0.91,1,1.29,Yes
+P0462,Home & Kitchen,Spring,277,5.92,191,229,11,13,0.99,0,0.98,No
+P0287,Clothing,Winter,26,1.28,42,52,16,8,0.89,0,1.1,No
+P0382,Grocery,Summer,114,3.6,113,105,17,13,0.81,0,0.79,No
+P1008,Personal Care,Winter,44,1.38,41,39,10,23,0.82,0,1.2,No
+P0671,Home & Kitchen,Winter,33,2.33,59,66,5,0,0.84,0,0.76,No
+P0535,Home & Kitchen,Spring,0,2.24,82,63,7,4,0.82,1,1.32,Yes
+P0910,Electronics,Winter,0,2.24,61,64,18,9,0.95,0,1.24,Yes
+P0293,Home & Kitchen,Spring,84,2.17,71,89,12,16,0.99,0,1.03,No
+P0124,Sports,Spring,54,1.11,33,27,2,9,0.93,0,1.22,No
+P0583,Personal Care,Autumn,35,2.1,57,49,3,0,0.92,0,1.28,No
+P0141,Grocery,Winter,86,2.88,73,89,4,0,0.94,0,1.0,No
+P0736,Home & Kitchen,Autumn,75,1.07,35,38,8,0,0.81,0,1.16,No
+P0082,Personal Care,Summer,86,2.35,77,72,13,4,0.84,0,1.03,No
+P0882,Clothing,Spring,17,1.54,52,68,7,1,0.88,0,1.27,No
+P0740,Home & Kitchen,Autumn,13,1.33,38,38,20,24,0.99,0,1.01,No
+P1102,Clothing,Autumn,58,1.73,50,54,17,28,0.99,0,1.17,No
+P0909,Personal Care,Summer,22,1.71,44,50,2,0,0.87,0,0.84,No
+P1167,Sports,Autumn,56,3.59,106,107,7,12,0.82,1,1.05,No
+P0937,Home & Kitchen,Winter,98,3.39,84,100,10,12,0.78,1,1.29,No
+P0372,Sports,Summer,0,0.82,29,36,15,21,0.87,0,0.99,No
+P0890,Home & Kitchen,Summer,0,2.79,71,60,3,18,0.89,0,0.77,No
+P0157,Clothing,Autumn,143,3.07,86,115,7,0,0.91,0,1.01,No
+P0992,Grocery,Winter,51,2.76,69,77,8,5,0.96,0,1.24,No
+P0622,Home & Kitchen,Spring,68,1.48,39,48,13,8,0.93,1,0.77,No
+P1038,Grocery,Autumn,60,2.57,62,82,8,0,0.8,0,1.34,No
+P0245,Home & Kitchen,Autumn,53,2.98,100,114,14,22,0.93,1,0.96,No
+P0159,Personal Care,Summer,99,2.92,73,93,21,17,0.99,1,1.04,No
+P0746,Home & Kitchen,Winter,62,5.0,123,143,2,8,0.83,1,1.03,No
+P0193,Personal Care,Spring,8,1.08,40,40,12,7,0.9,0,1.01,No
+P0534,Sports,Spring,78,1.25,45,49,8,11,0.91,0,1.2,No
+P0904,Home & Kitchen,Winter,47,1.82,51,47,14,5,0.86,1,1.21,No
+P1004,Personal Care,Spring,45,1.14,28,36,13,0,0.76,0,1.21,Yes
+P1070,Sports,Autumn,50,2.05,58,70,4,3,0.93,0,1.28,No
+P0414,Grocery,Winter,93,2.2,70,63,11,1,0.87,0,1.08,No
+P1187,Personal Care,Winter,0,3.55,114,142,12,15,0.87,0,1.18,Yes
+P0328,Personal Care,Summer,122,4.01,124,93,11,13,0.9,1,1.04,No
+P0129,Clothing,Summer,77,1.31,40,48,6,0,0.99,1,1.32,No
+P0695,Home & Kitchen,Autumn,75,3.49,93,121,8,10,0.76,0,0.99,No
+P0631,Sports,Spring,55,4.09,112,136,18,27,0.98,1,0.93,No
+P0275,Home & Kitchen,Autumn,197,3.4,116,116,13,17,0.93,0,1.22,No
+P1148,Sports,Spring,0,1.65,56,64,20,20,0.8,0,1.13,Yes
+P0309,Grocery,Autumn,21,1.7,43,44,5,0,0.77,0,0.98,Yes
+P0234,Clothing,Autumn,163,4.19,103,127,15,30,0.78,0,1.33,No
+P1048,Grocery,Spring,46,2.65,81,88,2,0,0.75,1,0.99,No
+P0623,Sports,Spring,63,3.72,123,107,13,0,0.9,0,1.12,No
+P0644,Personal Care,Spring,48,3.35,96,73,9,15,0.93,0,1.29,No
+P0479,Clothing,Autumn,103,3.71,96,74,5,0,0.96,1,1.07,No
+P0472,Sports,Winter,46,1.58,41,42,12,10,0.94,0,0.97,No
+P0926,Personal Care,Winter,114,4.98,123,148,16,18,0.94,1,0.75,No
+P1098,Sports,Summer,73,3.04,82,110,19,16,0.89,0,1.33,Yes
+P0627,Grocery,Autumn,198,5.43,158,200,21,71,0.84,0,0.87,No
+P0395,Grocery,Autumn,38,1.7,52,51,3,0,0.87,1,1.27,No
+P0637,Home & Kitchen,Summer,7,1.36,42,43,10,13,0.87,0,0.75,Yes
+P0768,Personal Care,Autumn,109,4.16,149,153,6,0,0.82,0,1.18,No
+P0533,Clothing,Spring,39,2.1,55,60,8,17,0.88,0,1.23,No
+P0718,Grocery,Winter,26,2.17,74,57,6,14,0.91,1,0.79,No
+P0667,Personal Care,Summer,52,1.45,40,54,8,0,0.76,0,0.81,No
+P0598,Sports,Summer,165,4.02,146,138,15,23,0.93,1,0.92,No
+P0482,Clothing,Autumn,140,3.41,109,109,14,13,0.91,0,1.18,No
+P1103,Sports,Summer,37,1.63,55,63,13,11,0.87,0,0.96,No
+P0315,Electronics,Summer,158,6.8,185,170,9,23,0.86,0,1.28,No
+P0729,Home & Kitchen,Autumn,163,6.41,182,155,8,50,0.79,0,1.34,No
+P0210,Grocery,Autumn,104,2.62,73,85,21,4,0.99,1,1.3,No
+P0934,Electronics,Spring,39,2.94,92,95,8,20,0.87,1,0.85,No
+P0434,Sports,Summer,21,4.13,102,83,15,25,0.9,0,0.86,Yes
+P0329,Personal Care,Winter,8,3.56,86,80,19,3,0.89,1,0.77,Yes
+P0261,Electronics,Spring,103,1.95,48,48,3,0,0.82,0,1.11,No
+P1117,Personal Care,Spring,146,4.08,108,114,16,20,0.86,1,1.12,No
+P0307,Personal Care,Autumn,46,3.52,89,72,14,11,0.88,0,1.14,No
+P1067,Grocery,Summer,50,2.92,77,67,15,12,0.84,0,0.95,Yes
+P0928,Clothing,Spring,2,3.63,121,95,11,31,0.94,0,1.06,Yes
+P1025,Personal Care,Spring,157,2.95,108,117,13,0,0.86,0,0.91,No
+P0271,Clothing,Spring,60,3.51,91,71,16,27,0.98,0,0.76,No
+P0291,Personal Care,Winter,92,4.4,117,138,13,42,0.9,0,0.77,No
+P0813,Clothing,Autumn,39,1.99,71,71,12,11,0.89,0,0.76,No
+P0097,Home & Kitchen,Winter,103,6.91,191,225,18,25,0.9,0,1.18,Yes
+P0888,Personal Care,Autumn,67,2.23,67,56,2,6,0.99,0,0.77,No
+P0819,Electronics,Spring,26,2.37,62,76,6,16,0.94,0,1.09,No
+P0032,Grocery,Summer,0,3.73,95,72,4,0,0.85,0,0.96,Yes
+P0763,Clothing,Winter,22,3.43,90,100,5,7,0.91,0,1.28,No
+P0954,Grocery,Spring,34,1.33,36,48,12,3,0.77,0,1.29,No
+P0320,Home & Kitchen,Winter,73,3.08,91,73,8,14,0.84,0,0.76,No
+P0299,Personal Care,Spring,75,4.65,120,156,4,3,0.91,0,1.18,No
+P0200,Personal Care,Winter,22,2.42,66,81,13,19,0.91,0,0.86,Yes
+P0561,Home & Kitchen,Winter,166,3.41,108,108,9,2,0.83,0,1.22,No
+P0179,Personal Care,Autumn,87,2.9,93,100,17,45,0.91,0,0.75,No
+P1132,Personal Care,Autumn,19,1.57,44,46,7,2,0.88,0,1.02,No
+P0089,Sports,Autumn,93,2.57,75,75,16,14,0.94,0,1.21,No
+P0788,Grocery,Spring,122,2.48,69,74,15,0,0.86,0,0.83,No
+P0725,Personal Care,Spring,136,3.59,89,105,20,39,0.77,0,0.97,No
+P0827,Clothing,Spring,169,3.12,79,90,20,4,0.92,0,1.14,No
+P0209,Personal Care,Winter,193,5.54,170,225,3,16,0.86,0,1.13,No
+P1040,Home & Kitchen,Spring,46,1.88,68,54,16,20,0.99,1,1.25,No
+P0297,Personal Care,Winter,81,2.45,62,52,12,28,0.77,0,0.91,No
+P0998,Electronics,Spring,90,1.87,55,71,16,5,0.78,0,1.27,No
+P0498,Grocery,Autumn,51,4.08,144,137,9,5,0.85,1,1.2,Yes
+P0835,Personal Care,Spring,239,5.41,134,156,5,8,0.89,0,0.77,No
+P0430,Clothing,Winter,129,3.01,91,87,8,14,0.96,0,0.8,No
+P0507,Personal Care,Autumn,90,3.99,122,143,3,6,0.91,0,0.81,No
+P0831,Electronics,Spring,0,1.11,36,33,4,18,0.9,0,0.85,No
+P0694,Electronics,Autumn,234,4.84,127,160,3,5,0.96,0,1.01,No
+P0011,Home & Kitchen,Winter,67,5.46,138,160,13,30,0.93,0,0.83,No
+P0848,Grocery,Summer,82,2.51,67,87,14,10,0.71,0,1.1,No
+P0463,Sports,Autumn,69,3.8,118,124,10,10,0.95,0,1.04,No
+P0199,Clothing,Summer,0,3.79,112,122,20,24,0.95,0,0.84,Yes
+P0060,Home & Kitchen,Autumn,1,2.36,57,68,8,0,0.82,0,1.28,Yes
+P0907,Personal Care,Winter,67,2.8,101,96,7,0,0.77,0,0.95,No
+P0997,Sports,Summer,49,2.3,69,79,16,4,0.81,0,0.77,No
+P0276,Home & Kitchen,Autumn,85,3.28,88,96,18,35,0.91,0,1.2,No
+P0809,Personal Care,Summer,0,4.44,148,194,12,5,0.86,0,0.89,Yes
+P0908,Sports,Winter,42,4.28,117,119,15,13,0.89,0,0.94,No
+P0658,Sports,Winter,0,1.1,29,38,21,0,0.74,0,0.77,Yes
+P0957,Clothing,Winter,0,4.52,134,108,7,1,0.98,1,1.03,Yes
+P0886,Electronics,Autumn,165,3.41,82,62,2,5,0.78,0,0.95,No
+P0221,Personal Care,Autumn,58,2.19,81,84,6,20,0.86,1,0.86,No
+P0789,Electronics,Summer,20,2.67,89,69,18,32,0.8,0,1.23,Yes
+P0712,Sports,Summer,18,2.68,91,80,13,8,0.94,0,0.91,No
+P0714,Clothing,Autumn,145,5.72,158,137,8,15,0.88,0,0.76,No
+P1113,Sports,Winter,77,2.43,73,55,15,0,0.91,0,0.9,No
+P1191,Home & Kitchen,Winter,76,2.69,82,82,21,16,0.83,0,0.82,No
+P0790,Clothing,Autumn,123,3.37,101,121,14,0,0.84,0,1.09,No
+P0416,Clothing,Winter,135,3.14,97,74,10,14,0.8,1,1.24,No
+P0899,Clothing,Spring,36,2.98,83,102,5,0,0.83,0,0.91,No
+P0935,Clothing,Spring,123,2.94,75,61,8,0,0.9,1,1.14,No
+P0266,Electronics,Summer,99,3.72,126,134,5,21,0.79,0,1.17,No
+P0632,Clothing,Summer,104,3.34,84,80,5,7,0.84,1,1.1,No
+P0248,Sports,Autumn,18,1.12,35,38,15,26,0.85,1,1.16,Yes
+P0683,Personal Care,Summer,23,0.77,19,21,4,3,0.81,1,0.99,No
+P0559,Clothing,Autumn,7,1.65,54,70,17,10,0.99,0,0.91,No
+P1137,Sports,Spring,23,1.61,53,47,8,22,0.98,1,1.02,No
+P0968,Home & Kitchen,Spring,5,6.32,161,155,8,34,0.98,0,1.34,Yes
+P1005,Home & Kitchen,Autumn,44,3.89,95,102,10,7,0.83,1,1.2,No
+P0985,Clothing,Summer,52,2.64,83,101,19,0,0.86,0,1.03,Yes
+P0295,Electronics,Winter,52,3.44,106,81,8,10,0.83,0,1.17,No
+P0520,Grocery,Spring,174,4.64,119,148,17,37,0.86,0,0.89,No
+P0771,Sports,Winter,85,1.65,53,45,2,3,0.79,0,1.18,No
+P0084,Personal Care,Summer,27,3.5,93,116,9,16,0.9,0,0.96,No
+P0232,Home & Kitchen,Summer,0,1.81,55,49,4,0,0.96,0,1.14,Yes
+P0621,Sports,Autumn,0,1.03,35,41,18,4,0.91,0,1.08,Yes
+P0334,Clothing,Autumn,0,1.1,34,41,6,13,0.85,0,0.87,Yes
+P0130,Electronics,Autumn,47,0.5,18,20,3,7,0.89,0,1.18,No
+P1012,Clothing,Summer,0,1.48,51,65,7,15,0.91,0,1.35,Yes
+P0645,Personal Care,Spring,95,2.37,69,81,13,4,0.79,1,0.86,No
+P0974,Home & Kitchen,Winter,115,3.12,97,121,3,0,0.89,0,1.33,No
+P0383,Personal Care,Spring,66,1.93,71,55,3,24,0.81,0,1.27,No
+P0868,Home & Kitchen,Autumn,175,6.65,184,153,19,50,0.93,0,0.81,No
+P0543,Sports,Summer,32,2.81,99,125,21,16,0.84,0,0.82,No
+P1194,Personal Care,Spring,163,4.42,117,95,3,25,0.89,0,1.19,No
+P0875,Sports,Autumn,83,2.07,70,63,10,0,0.86,0,1.28,No
+P0332,Personal Care,Summer,152,4.41,135,156,8,14,0.9,0,1.18,No
+P0410,Home & Kitchen,Summer,65,2.61,82,62,9,20,0.92,1,1.04,No
+P0077,Grocery,Autumn,168,4.01,104,98,11,0,0.97,0,1.06,No
+P0869,Grocery,Autumn,30,2.7,78,92,19,29,0.84,0,1.25,Yes
+P0139,Clothing,Autumn,173,4.56,131,119,8,14,0.83,1,0.76,No
+P0544,Home & Kitchen,Spring,46,2.94,82,81,2,26,0.75,0,0.77,No
+P0674,Grocery,Spring,27,2.14,80,81,8,20,0.84,0,1.19,No
+P0921,Clothing,Autumn,48,2.9,97,107,21,3,0.94,0,1.08,No
+P0064,Personal Care,Summer,39,2.09,51,62,21,18,0.99,0,0.84,No
+P0142,Grocery,Autumn,20,2.87,88,82,17,18,0.97,0,1.06,Yes
+P0717,Electronics,Autumn,249,5.71,190,251,14,30,0.82,0,1.08,No
+P0377,Grocery,Spring,102,2.57,65,61,4,0,0.82,0,0.88,No
+P0364,Electronics,Winter,0,2.3,81,67,16,0,0.81,0,0.94,Yes
+P0140,Electronics,Autumn,44,2.62,87,101,17,20,0.91,0,1.15,No
+P0885,Clothing,Winter,32,2.69,87,78,12,3,0.85,1,0.77,Yes
+P1042,Home & Kitchen,Spring,0,1.97,57,72,21,29,0.85,0,1.27,Yes
+P0225,Clothing,Autumn,0,3.08,107,107,11,0,0.85,0,0.75,Yes
+P0515,Grocery,Autumn,14,1.65,40,30,11,13,0.73,1,1.07,No
+P0267,Electronics,Spring,21,3.03,108,98,13,29,0.73,0,0.85,Yes
+P1170,Home & Kitchen,Spring,72,3.02,92,69,10,2,0.98,1,1.14,No
+P0487,Personal Care,Winter,59,5.0,144,140,21,25,0.8,0,1.3,Yes
+P0353,Home & Kitchen,Spring,5,1.27,37,43,20,0,0.85,0,1.07,Yes
+P1006,Personal Care,Summer,61,1.88,62,74,7,0,0.95,0,1.07,No
+P0618,Electronics,Spring,25,4.02,104,94,7,21,0.86,0,0.98,No
+P0668,Home & Kitchen,Spring,0,1.65,43,35,15,3,0.99,0,1.26,Yes
+P0775,Electronics,Spring,28,2.31,77,94,15,13,0.74,1,0.79,No
+P0554,Grocery,Autumn,121,2.2,80,100,18,26,0.87,0,0.87,No
+P0576,Electronics,Summer,19,3.59,96,99,19,27,0.8,0,1.26,Yes
+P0915,Personal Care,Summer,39,3.45,104,111,6,5,0.89,0,1.08,No
+P0466,Grocery,Summer,42,1.43,35,43,4,0,0.88,0,1.22,No
+P0591,Personal Care,Autumn,107,6.06,160,189,11,48,0.99,0,1.09,No
+P0765,Electronics,Autumn,108,3.18,82,79,7,0,0.91,0,0.82,No
+P0635,Clothing,Summer,250,6.61,163,176,7,1,0.97,0,1.24,No
+P0838,Electronics,Summer,0,2.84,73,97,12,27,0.85,0,0.86,No
+P0290,Home & Kitchen,Winter,83,3.22,112,91,19,13,0.92,0,1.25,No
+P0040,Home & Kitchen,Spring,71,2.51,67,77,7,15,0.92,1,0.81,No
+P0031,Clothing,Summer,119,5.63,162,213,10,13,0.97,0,0.78,No
+P0243,Electronics,Autumn,289,6.86,196,217,13,40,0.99,0,1.18,No
+P0429,Personal Care,Winter,0,2.31,82,94,9,0,0.85,0,1.06,No
+P0137,Grocery,Spring,114,4.22,121,153,18,26,0.95,0,1.21,No
+P1101,Personal Care,Autumn,18,1.29,39,44,11,0,0.99,0,1.22,No
+P0865,Electronics,Winter,55,4.57,122,133,11,28,0.88,0,1.31,No
+P0004,Sports,Spring,16,0.89,29,35,13,19,0.92,0,1.05,No
+P0833,Home & Kitchen,Summer,13,3.05,75,77,2,9,0.99,0,0.79,No
+P0603,Home & Kitchen,Winter,68,3.17,103,79,8,2,0.99,0,0.87,No
+P1034,Sports,Summer,74,1.87,62,56,11,3,0.93,0,0.79,No
+P0655,Sports,Spring,67,3.08,109,126,9,11,0.91,0,0.93,No
+P0844,Clothing,Winter,71,2.49,68,92,12,0,0.83,0,1.31,No
+P0784,Clothing,Autumn,102,3.4,119,153,3,2,0.97,0,0.79,No
+P1074,Clothing,Spring,29,5.42,137,126,11,24,0.9,0,0.89,Yes
+P0443,Personal Care,Spring,57,1.74,43,52,2,12,0.99,0,0.96,No
+P1178,Grocery,Winter,73,3.94,102,120,12,7,0.99,0,1.06,No
+P0436,Home & Kitchen,Autumn,0,1.14,42,35,9,0,0.93,0,0.88,Yes
+P1169,Home & Kitchen,Winter,99,2.62,98,86,6,0,0.93,1,0.95,No
+P0101,Sports,Summer,0,1.33,34,26,6,0,0.83,0,1.18,Yes
+P0773,Electronics,Spring,65,1.92,58,72,5,19,0.95,0,0.79,No
+P0495,Sports,Summer,7,2.73,69,92,8,13,0.95,0,1.0,Yes
+P1028,Personal Care,Spring,0,2.11,72,70,9,5,0.76,0,1.28,Yes
+P0807,Electronics,Summer,92,1.5,36,32,18,0,0.87,0,0.84,No
+P1142,Home & Kitchen,Summer,76,2.17,60,76,7,21,0.89,0,1.3,No
+P0846,Personal Care,Autumn,102,3.01,112,148,21,9,0.82,0,1.05,No
+P0987,Electronics,Winter,80,5.43,203,202,17,14,0.77,1,1.27,Yes
+P0228,Sports,Summer,275,6.89,169,228,4,14,0.84,1,1.2,No
+P1193,Sports,Winter,90,2.04,56,68,15,0,0.9,1,1.02,No
+P0672,Personal Care,Winter,172,4.21,130,162,6,8,0.99,0,1.2,No
+P0859,Personal Care,Summer,116,4.84,145,123,7,16,0.99,1,0.87,No
+P0925,Electronics,Spring,55,3.07,114,137,13,0,0.9,1,1.28,Yes
+P0067,Grocery,Autumn,87,3.16,89,87,2,17,0.86,0,1.29,No
+P0068,Home & Kitchen,Summer,20,3.27,88,74,9,10,0.85,1,0.76,Yes
+P0817,Personal Care,Spring,46,2.26,65,72,12,15,0.87,0,1.1,No
+P0212,Electronics,Winter,72,2.96,95,97,21,15,0.82,1,0.86,No
+P0013,Personal Care,Spring,49,4.14,101,120,13,5,0.77,0,0.89,No
+P0494,Home & Kitchen,Summer,0,4.92,133,113,8,0,0.8,0,1.11,Yes
+P1165,Home & Kitchen,Autumn,56,1.85,45,47,17,17,0.86,0,1.33,No
+P0300,Clothing,Summer,7,1.58,55,54,21,0,0.92,0,1.25,Yes
+P0411,Clothing,Spring,59,4.27,103,78,6,0,0.87,0,1.27,No
+P0757,Sports,Autumn,84,4.21,135,179,15,23,0.68,0,1.09,No
+P1075,Personal Care,Winter,221,5.92,186,193,9,19,0.85,0,1.25,No
+P0696,Electronics,Summer,29,2.04,76,94,12,0,0.76,0,1.18,Yes
+P1151,Personal Care,Summer,102,1.99,59,51,5,0,0.88,0,1.18,No
+P0724,Personal Care,Summer,161,4.72,114,145,8,24,0.85,0,0.9,No
+P1016,Personal Care,Spring,75,4.54,123,114,15,44,0.99,0,0.83,No
+P0528,Home & Kitchen,Summer,16,1.19,32,33,14,14,0.87,0,0.87,No
+P0600,Clothing,Spring,93,3.3,120,105,21,30,0.93,0,1.31,No
+P1120,Personal Care,Winter,76,0.85,31,31,12,0,0.91,0,1.25,No
+P0567,Sports,Summer,174,5.21,160,169,13,20,0.89,0,0.91,No
+P0731,Personal Care,Autumn,58,3.09,92,83,20,42,0.86,1,1.3,Yes
+P0274,Electronics,Winter,16,1.27,46,50,15,0,0.92,0,1.1,Yes
+P0967,Personal Care,Spring,22,2.9,77,71,6,0,0.78,0,0.98,No
+P0238,Home & Kitchen,Summer,0,1.13,40,47,12,0,0.96,0,1.02,Yes
+P0406,Home & Kitchen,Spring,80,3.46,104,123,2,0,0.93,1,0.89,No
+P0003,Clothing,Winter,22,1.72,49,43,7,18,0.76,0,0.96,No
+P0007,Clothing,Summer,1,0.95,29,37,18,4,0.94,1,0.8,No
+P0312,Sports,Summer,156,6.52,181,159,2,6,0.82,0,1.31,No
+P1091,Clothing,Winter,58,4.31,108,144,10,36,0.83,0,1.01,No
+P0452,Electronics,Winter,50,2.99,86,104,6,0,0.86,0,0.77,No
+P0722,Electronics,Winter,127,3.84,97,86,7,15,0.82,1,1.12,No
+P0216,Clothing,Spring,28,6.08,165,198,20,40,0.99,1,1.25,Yes
+P1086,Clothing,Autumn,89,4.28,139,110,6,3,0.84,0,1.31,No
+P0028,Electronics,Summer,105,3.84,93,107,12,25,0.85,1,0.77,No
+P1158,Grocery,Winter,122,5.29,134,119,14,16,0.73,0,1.34,No
+P0362,Sports,Winter,0,8.6,306,250,20,55,0.86,1,0.92,Yes
+P0823,Grocery,Winter,38,1.43,51,41,19,0,0.92,0,1.27,Yes
+P0781,Electronics,Summer,114,3.96,129,107,4,0,0.96,0,0.93,No
+P0629,Personal Care,Summer,65,3.82,137,168,14,0,0.93,0,1.3,No
+P0454,Home & Kitchen,Spring,105,2.71,88,83,7,15,0.87,0,1.26,No
+P0739,Grocery,Winter,98,3.6,123,159,2,16,0.73,0,1.14,No
+P0536,Clothing,Autumn,6,2.51,93,96,4,13,0.92,0,0.99,Yes
+P1050,Personal Care,Winter,32,4.64,135,177,8,18,0.79,0,1.34,Yes
+P0399,Electronics,Winter,31,3.74,116,120,2,0,0.86,0,1.02,No
+P0257,Clothing,Winter,13,2.72,79,103,20,14,0.9,0,0.89,Yes
+P0292,Electronics,Autumn,48,3.46,89,103,13,34,0.91,0,0.91,No
+P0026,Sports,Autumn,131,4.34,135,158,6,4,0.96,0,0.89,No
+P0337,Clothing,Winter,113,3.71,91,69,16,20,0.98,1,0.76,No
+P0585,Home & Kitchen,Autumn,127,5.34,149,168,6,21,0.85,1,1.01,No
+P0048,Home & Kitchen,Summer,38,0.91,31,27,2,5,0.88,1,0.99,No
+P0319,Sports,Winter,109,3.02,90,96,3,6,0.89,0,1.26,No
+P0107,Clothing,Winter,45,5.76,142,128,18,49,0.79,1,1.32,Yes
+P0799,Clothing,Summer,190,4.63,114,152,4,0,0.97,1,0.78,No
+P0056,Sports,Summer,137,5.37,137,124,4,0,0.86,1,0.78,No
+P0523,Clothing,Autumn,0,0.51,16,18,14,14,0.79,1,0.84,No
+P0214,Electronics,Autumn,150,4.75,137,132,19,56,0.89,1,1.14,No
+P0121,Grocery,Spring,60,2.09,56,70,9,15,0.79,1,0.78,No
+P0918,Personal Care,Spring,94,4.11,138,139,11,39,0.82,0,0.91,No
+P1068,Home & Kitchen,Winter,118,2.15,63,54,12,0,0.8,0,1.35,No
+P1118,Clothing,Summer,7,1.87,69,89,7,20,0.92,0,0.98,No
+P0073,Grocery,Spring,88,3.91,119,125,21,35,0.82,1,0.78,No
+P0948,Clothing,Spring,0,0.83,28,31,5,15,0.9,0,1.09,No
+P0747,Clothing,Spring,57,2.43,85,69,14,0,0.73,1,0.87,Yes
+P0716,Home & Kitchen,Autumn,188,3.49,91,82,9,17,0.86,0,0.93,No
+P0558,Grocery,Summer,0,0.76,19,19,18,4,0.99,1,1.23,Yes
+P1082,Home & Kitchen,Autumn,0,1.39,48,38,21,2,0.89,0,0.98,Yes
+P1046,Home & Kitchen,Autumn,58,1.96,64,80,15,34,0.91,0,1.11,No
+P0553,Sports,Autumn,215,5.43,133,172,11,20,0.99,0,1.2,No
+P0562,Grocery,Autumn,78,2.38,58,55,7,0,0.94,0,1.16,No
+P0425,Electronics,Winter,17,1.59,54,41,3,0,0.84,0,0.78,No
+P1014,Sports,Autumn,65,4.52,144,123,3,0,0.94,1,0.76,No
+P0326,Clothing,Winter,21,3.69,121,98,7,0,0.87,0,1.12,Yes
+P0924,Electronics,Spring,175,4.17,123,95,15,17,0.83,0,1.18,No
+P0317,Electronics,Autumn,104,1.79,61,68,16,11,0.82,0,0.83,No
+P0804,Grocery,Autumn,23,4.12,107,90,12,12,0.83,0,1.02,Yes
+P1163,Home & Kitchen,Summer,111,1.78,57,59,9,11,0.86,0,1.16,No
+P0529,Electronics,Summer,30,3.35,97,75,12,11,0.87,1,0.85,Yes
+P0837,Clothing,Winter,120,2.6,71,90,7,0,0.76,0,0.94,No
+P0715,Clothing,Autumn,28,4.11,99,107,7,3,0.79,0,0.81,No
+P0901,Sports,Autumn,257,5.02,146,149,12,43,0.99,0,0.89,No
+P0061,Home & Kitchen,Summer,99,2.36,66,51,14,4,0.86,1,0.79,No
+P0723,Sports,Autumn,48,2.22,57,60,8,0,0.99,0,1.08,No
+P0093,Grocery,Winter,83,3.38,100,107,17,25,0.94,0,0.91,No
+P0858,Electronics,Summer,61,6.96,218,283,12,39,0.82,0,0.88,Yes
+P0619,Home & Kitchen,Spring,56,2.41,76,58,21,34,0.84,1,1.17,No
+P0352,Home & Kitchen,Spring,112,2.64,75,90,17,38,0.71,0,1.23,No
+P0933,Electronics,Spring,0,3.39,96,104,18,24,0.88,0,0.86,Yes
+P0281,Home & Kitchen,Summer,63,2.19,77,99,19,24,0.94,0,1.14,No
+P0421,Personal Care,Winter,43,2.75,76,99,21,15,0.92,1,1.29,No
+P1115,Electronics,Summer,25,1.59,45,52,19,18,0.89,0,1.08,No
+P0360,Home & Kitchen,Spring,0,1.96,64,70,15,20,0.87,0,0.9,No
+P0423,Grocery,Spring,56,2.05,72,82,4,0,0.78,1,1.19,No
+P0679,Sports,Winter,74,1.81,49,40,8,0,0.73,0,1.3,No
+P0527,Clothing,Autumn,42,1.63,51,57,6,0,0.82,0,1.28,No
+P0478,Sports,Autumn,6,2.81,98,103,2,20,0.86,0,1.26,No
+P1095,Sports,Spring,84,3.22,88,76,12,18,0.95,0,1.02,No
+P0183,Clothing,Winter,141,3.4,88,93,15,29,0.84,0,1.25,No
+P1092,Electronics,Autumn,22,3.12,76,79,13,2,0.91,1,1.13,Yes
+P0433,Electronics,Summer,0,2.31,64,70,18,13,0.87,1,1.32,Yes
+P0111,Clothing,Autumn,8,1.96,56,49,18,0,0.83,0,0.9,Yes
+P0371,Sports,Winter,101,3.96,115,120,16,15,0.93,0,0.84,Yes
+P0240,Personal Care,Autumn,0,3.23,90,89,20,23,0.88,0,1.2,Yes
+P0709,Sports,Spring,54,1.93,51,60,14,5,0.75,0,1.3,No
+P0630,Grocery,Autumn,35,3.09,83,91,13,10,0.99,0,1.24,No
+P0594,Personal Care,Spring,68,4.76,116,103,21,47,0.93,0,1.2,Yes
+P0486,Sports,Summer,74,1.06,33,28,5,0,0.86,0,1.14,No
+P0701,Personal Care,Winter,98,2.4,73,95,12,0,0.88,0,1.13,No
+P0262,Grocery,Spring,40,1.89,50,43,7,22,0.71,0,1.31,No
+P0480,Home & Kitchen,Spring,16,3.26,95,106,13,15,0.9,1,0.83,No
+P0650,Clothing,Summer,104,6.63,228,173,20,44,0.8,0,1.06,Yes
+P0340,Personal Care,Winter,184,4.14,127,115,20,32,0.88,0,1.14,No
+P0669,Clothing,Autumn,47,3.99,122,159,2,21,0.99,0,0.75,No
+P0552,Grocery,Winter,112,3.67,108,96,9,16,0.87,0,1.26,No
+P0459,Sports,Spring,98,3.17,102,86,16,5,0.83,0,1.15,No
+P0184,Personal Care,Spring,25,5.48,140,107,19,28,0.79,0,1.29,Yes
+P0138,Personal Care,Winter,0,1.88,63,73,17,15,0.8,0,1.06,Yes
+P1161,Personal Care,Spring,92,2.17,58,64,14,18,0.9,0,1.31,No
+P0707,Sports,Winter,0,1.92,58,77,17,14,0.78,0,0.94,Yes
+P0582,Electronics,Autumn,83,2.89,71,91,4,5,0.99,0,1.28,No
+P0081,Grocery,Winter,48,1.88,63,58,16,8,0.82,0,1.13,Yes
+P0769,Grocery,Winter,79,2.74,69,93,8,9,0.82,0,0.97,No
+P0870,Electronics,Summer,80,2.16,61,62,8,10,0.84,0,0.99,No
+P0762,Grocery,Summer,61,2.46,72,70,6,0,0.83,0,1.24,No
+P0030,Clothing,Winter,57,5.81,154,134,9,17,0.87,0,1.06,No
+P0542,Sports,Spring,113,3.37,96,102,18,17,0.95,0,0.99,No
+P0166,Sports,Winter,20,2.42,77,73,14,10,0.88,1,1.07,No
+P0249,Clothing,Summer,74,1.77,48,61,9,0,0.97,0,0.95,No
+P0308,Grocery,Autumn,41,2.32,74,82,9,4,0.84,0,1.3,No
+P0448,Home & Kitchen,Autumn,152,3.68,102,102,10,12,0.9,0,0.99,No
+P0347,Clothing,Autumn,42,4.43,111,109,15,20,0.85,0,0.92,Yes
+P0335,Personal Care,Spring,76,2.21,59,77,4,24,0.75,0,1.28,No
+P0286,Electronics,Autumn,18,2.51,93,74,16,24,0.91,0,1.31,Yes
+P0950,Personal Care,Summer,207,4.08,137,145,10,8,0.89,1,0.75,No
+P0098,Sports,Winter,118,4.21,126,155,19,8,0.85,0,1.0,No
+P0468,Grocery,Spring,177,2.79,79,74,13,16,0.97,0,1.18,No
+P1037,Personal Care,Winter,15,2.02,56,58,2,13,0.89,0,0.9,Yes
+P0913,Home & Kitchen,Autumn,46,5.27,169,202,4,0,0.86,0,1.07,No
+P0756,Sports,Autumn,64,2.55,71,91,18,23,0.9,0,0.92,No
+P0945,Grocery,Spring,44,0.7,21,21,5,0,0.84,0,1.12,No
+P0614,Sports,Autumn,111,3.36,111,89,18,13,0.9,0,0.98,No
+P0802,Sports,Summer,48,1.59,48,53,13,26,0.99,0,1.21,No
+P0758,Personal Care,Autumn,84,3.21,80,102,5,3,0.91,0,1.02,No
+P0689,Electronics,Autumn,0,2.62,86,89,6,8,0.9,0,1.05,Yes
+P0066,Home & Kitchen,Autumn,54,3.87,116,136,9,5,0.87,0,1.2,No
+P0794,Home & Kitchen,Autumn,152,3.7,95,99,15,0,0.89,0,1.29,No
+P0744,Sports,Spring,233,6.18,185,193,12,20,0.8,0,1.33,No
+P0568,Home & Kitchen,Winter,62,4.01,120,107,18,0,0.78,0,0.96,Yes
+P1084,Personal Care,Spring,128,2.09,77,69,10,6,0.84,0,1.01,No
+P1099,Personal Care,Autumn,35,1.31,32,26,3,5,0.99,0,1.04,No
+P0303,Clothing,Winter,135,3.22,99,84,15,28,0.83,0,0.89,No
+P0255,Grocery,Spring,104,4.49,156,196,2,6,0.79,0,1.34,No
+P0959,Electronics,Spring,51,3.23,83,65,17,16,0.98,0,1.33,No
+P1024,Electronics,Autumn,31,3.4,116,124,17,0,0.92,0,0.79,Yes
+P0313,Electronics,Winter,44,3.26,118,91,18,18,0.94,1,0.99,Yes
+P0530,Electronics,Autumn,0,1.54,54,41,20,6,0.76,1,1.1,Yes
+P0222,Sports,Summer,60,0.93,29,31,19,17,0.95,0,1.12,No
+P0389,Electronics,Winter,126,4.23,113,93,3,10,0.84,1,1.02,No
+P0236,Personal Care,Summer,83,1.88,55,74,8,24,0.87,1,1.26,No
+P0810,Electronics,Winter,43,2.03,62,77,3,0,0.88,1,0.92,No
+P0483,Sports,Spring,59,1.62,47,57,21,17,0.78,0,1.07,No
+P0713,Home & Kitchen,Summer,82,3.68,122,143,20,19,0.87,0,0.82,No
+P0306,Grocery,Spring,34,2.27,58,75,11,0,0.94,1,1.04,Yes
+P1111,Home & Kitchen,Winter,57,2.52,86,79,9,1,0.86,1,0.93,No
+P1090,Clothing,Autumn,49,1.91,53,65,4,3,0.96,1,1.04,No
+P0772,Sports,Winter,50,2.82,92,97,15,33,0.91,0,1.31,No
+P0917,Electronics,Spring,201,5.53,135,172,8,18,0.74,0,1.09,No
+P1139,Home & Kitchen,Autumn,147,2.96,88,90,20,11,0.85,0,0.83,No
+P0250,Home & Kitchen,Winter,0,3.42,111,115,10,0,0.97,0,1.22,Yes
+P0760,Sports,Autumn,44,4.22,127,124,18,15,0.88,1,0.82,Yes
+P0595,Home & Kitchen,Winter,7,0.97,32,34,6,0,0.88,0,1.03,No
+P0072,Personal Care,Summer,7,1.64,45,36,19,22,0.85,0,1.29,Yes
+P0095,Home & Kitchen,Autumn,160,4.62,121,147,11,12,0.98,0,1.18,No
+P0546,Grocery,Spring,76,5.2,135,121,18,24,0.99,1,1.12,Yes
+P0034,Home & Kitchen,Autumn,57,2.05,55,42,8,8,0.95,1,0.99,No
+P0862,Personal Care,Winter,46,2.04,67,65,16,8,0.87,0,0.84,Yes
+P0579,Clothing,Spring,30,1.53,48,54,13,12,0.92,0,1.03,No
+P0449,Grocery,Spring,39,2.83,78,83,2,9,0.88,1,0.98,No
+P0446,Sports,Spring,12,2.1,64,66,21,8,0.95,0,0.86,Yes
+P0260,Electronics,Spring,130,7.56,203,153,12,20,0.93,0,0.8,No
+P0205,Electronics,Spring,16,2.63,97,79,16,6,0.73,0,0.77,Yes
+P0573,Home & Kitchen,Autumn,34,2.5,88,99,17,3,0.96,1,1.35,Yes
+P0824,Grocery,Summer,0,2.1,76,95,10,0,0.8,0,0.96,Yes
+P0586,Electronics,Summer,42,1.31,32,30,19,1,0.88,1,1.03,No
+P0366,Sports,Winter,0,1.08,31,41,9,2,0.79,1,1.08,No
+P0812,Electronics,Spring,96,4.4,163,130,11,0,0.81,0,1.03,No
+P0078,Grocery,Winter,0,1.53,51,63,8,6,0.77,0,1.12,No
+P0085,Personal Care,Spring,118,4.53,122,162,19,44,0.87,0,0.91,No
+P0539,Grocery,Summer,129,4.31,106,119,6,8,0.93,1,0.82,No
+P0083,Home & Kitchen,Autumn,171,4.04,98,96,10,6,0.93,1,1.26,No
+P0458,Grocery,Autumn,53,1.7,56,50,21,0,0.83,0,1.31,Yes
+P1138,Electronics,Summer,95,3.52,90,96,18,24,0.87,0,0.92,No
+P0615,Sports,Autumn,25,2.09,77,89,15,0,0.85,1,0.93,Yes
+P1186,Personal Care,Summer,126,3.98,107,102,3,0,0.92,1,0.77,No
+P1076,Clothing,Summer,15,1.07,33,44,14,16,0.95,1,1.16,No
+P0737,Home & Kitchen,Summer,21,4.82,140,117,10,8,0.93,0,0.9,Yes
+P0437,Home & Kitchen,Spring,68,3.41,113,100,6,13,0.76,0,1.12,No
+P0555,Grocery,Autumn,124,3.86,95,103,19,28,0.9,0,0.95,No
+P1080,Personal Care,Winter,28,3.4,112,104,18,14,0.77,0,1.07,Yes
+P1062,Sports,Winter,109,4.58,135,121,12,16,0.95,0,1.23,No
+P0351,Electronics,Winter,20,2.86,72,86,10,0,0.83,0,0.97,No
+P0197,Grocery,Spring,13,2.79,83,69,8,2,0.85,0,1.03,No
+P0465,Grocery,Autumn,147,5.6,197,258,10,19,0.73,0,0.93,No
+P0589,Clothing,Spring,44,2.7,78,69,21,0,0.94,1,0.99,Yes
+P0006,Grocery,Winter,114,3.12,78,70,14,32,0.98,0,1.22,No
+P0311,Clothing,Autumn,30,3.18,116,96,6,31,0.93,1,1.11,No
+P0662,Electronics,Autumn,77,1.95,73,72,18,0,0.8,0,0.78,No
+P0405,Sports,Summer,93,2.71,89,114,20,16,0.8,0,1.09,No
+P1196,Electronics,Spring,0,2.28,80,100,9,8,0.82,0,1.11,Yes
+P1044,Home & Kitchen,Spring,0,4.07,106,123,10,25,0.84,1,1.32,Yes
+P1058,Electronics,Summer,0,3.98,106,108,16,35,0.91,0,0.76,No
+P0105,Electronics,Winter,103,1.58,45,39,15,4,0.97,1,1.17,No
+P0537,Electronics,Summer,89,1.62,55,72,14,13,0.85,0,0.87,No
+P0606,Clothing,Summer,0,2.02,72,68,3,5,0.76,0,0.89,No
+P0063,Clothing,Autumn,51,1.75,44,52,4,6,0.75,1,1.1,No
+P0282,Sports,Spring,134,3.15,84,104,6,18,0.89,0,0.85,No
+P1056,Clothing,Summer,56,1.99,69,54,6,23,0.97,0,0.78,No
+P0239,Grocery,Winter,148,3.58,91,75,16,20,0.89,0,1.07,No
+P0224,Electronics,Spring,35,1.53,47,54,15,0,0.93,0,0.8,No
+P0146,Electronics,Summer,8,3.43,121,98,18,25,0.85,0,0.79,No
+P1119,Sports,Autumn,57,2.5,72,84,12,26,0.88,0,1.0,No
+P0374,Clothing,Spring,73,3.06,76,86,17,0,0.8,0,0.96,No
+P0119,Electronics,Summer,65,2.8,81,67,2,5,0.86,0,0.93,No
+P0803,Sports,Autumn,0,1.88,56,63,13,2,0.86,1,0.84,Yes
+P0251,Home & Kitchen,Summer,108,2.23,57,45,20,0,0.87,0,1.29,No
+P1157,Clothing,Winter,0,2.22,82,96,10,21,0.96,0,0.89,Yes
+P0010,Sports,Spring,66,2.6,75,95,4,15,0.91,1,1.2,No
+P0450,Personal Care,Winter,34,3.98,101,105,18,43,0.93,0,1.24,Yes
+P0874,Home & Kitchen,Autumn,38,3.97,100,96,21,19,0.75,0,1.22,Yes
+P0390,Electronics,Spring,13,1.88,61,77,10,0,0.74,1,0.79,Yes
+P0966,Grocery,Summer,40,3.35,100,126,20,32,0.81,0,0.95,Yes
+P0461,Electronics,Spring,35,1.87,62,72,9,31,0.84,0,1.21,No
+P1147,Sports,Winter,66,1.91,57,62,8,0,0.99,0,1.31,No
+P0145,Clothing,Spring,57,1.46,46,44,4,19,0.98,0,1.34,No
+P0502,Personal Care,Winter,45,3.06,102,108,14,26,0.88,0,0.9,No
+P1108,Personal Care,Winter,25,3.32,108,130,14,8,0.87,0,0.93,Yes
+P0540,Clothing,Spring,13,0.97,29,35,19,5,0.99,1,0.92,No
+P0178,Electronics,Summer,120,3.01,86,113,5,13,0.9,0,1.33,No
+P1159,Electronics,Autumn,138,4.87,152,187,4,0,0.76,0,1.35,No
+P1051,Sports,Autumn,109,5.04,135,136,11,20,0.85,0,1.05,No
+P0584,Sports,Spring,153,4.65,132,110,7,5,0.96,0,0.82,No
+P1195,Grocery,Spring,0,1.52,56,54,18,6,0.88,0,1.05,No
+P0008,Clothing,Spring,132,4.67,118,96,9,20,0.93,0,1.28,No
+P0574,Grocery,Summer,36,2.5,63,75,13,34,0.94,0,1.01,No
+P0843,Grocery,Autumn,171,4.04,127,132,8,5,0.88,1,1.06,No
+P0358,Personal Care,Spring,133,2.67,86,93,11,0,0.91,1,0.87,No
+P0330,Personal Care,Autumn,133,4.78,142,116,13,27,0.75,1,1.14,No
+P0705,Sports,Winter,3,4.74,148,198,12,19,0.87,0,1.02,Yes
+P0830,Home & Kitchen,Winter,98,3.92,96,93,7,8,0.85,0,1.29,No
+P0259,Home & Kitchen,Spring,135,4.0,102,119,18,4,0.86,1,1.14,No
+P0891,Electronics,Autumn,133,5.87,157,168,21,20,0.86,0,0.97,No
+P0834,Sports,Winter,123,4.09,129,123,15,22,0.88,1,0.88,No
+P1188,Grocery,Autumn,95,1.63,53,44,10,5,0.9,1,0.92,No
+P0905,Grocery,Spring,49,2.24,71,58,3,0,0.83,0,1.32,No
+P0526,Grocery,Summer,17,2.74,90,80,12,12,0.74,0,1.09,Yes
+P0814,Sports,Summer,104,1.99,54,59,7,6,0.99,1,1.05,No
+P0732,Home & Kitchen,Winter,167,3.03,93,93,5,0,0.73,0,1.14,No
+P1032,Grocery,Summer,62,3.81,116,140,19,37,0.85,1,0.8,No
+P1141,Clothing,Spring,0,2.36,58,74,18,22,0.9,1,0.94,Yes
+P0441,Sports,Summer,156,3.39,114,101,13,9,0.99,0,1.26,No
+P0532,Clothing,Summer,6,1.81,50,57,16,11,0.87,0,1.15,Yes
+P0960,Sports,Spring,40,4.5,142,167,16,40,0.84,0,0.88,Yes
+P0229,Home & Kitchen,Winter,32,1.7,50,41,12,0,0.9,0,0.98,No
+P1041,Clothing,Spring,94,2.3,61,78,5,28,0.85,0,1.09,No
+P0213,Sports,Winter,20,1.4,34,33,5,24,0.99,0,1.23,No
+P0080,Grocery,Winter,58,2.58,63,64,17,0,0.68,0,0.91,Yes
+P0149,Home & Kitchen,Spring,85,2.62,70,62,5,0,0.92,1,0.9,No
+P0592,Electronics,Summer,68,0.75,25,30,13,6,0.7,0,0.81,No
+P0708,Personal Care,Spring,20,1.51,54,42,8,0,0.92,1,0.98,Yes
+P0590,Electronics,Autumn,10,1.81,49,64,12,21,0.87,0,0.77,Yes
+P0134,Clothing,Spring,122,3.08,96,109,11,18,0.94,0,0.8,No
+P0782,Personal Care,Spring,107,3.91,97,130,20,16,0.99,0,1.09,No
+P0409,Personal Care,Winter,190,3.97,97,102,2,0,0.99,1,0.87,No
+P0970,Electronics,Spring,0,2.41,86,111,6,11,0.89,0,1.08,No
+P0508,Sports,Summer,108,4.34,127,133,14,35,0.88,0,0.79,No
+P0877,Personal Care,Autumn,210,4.74,116,141,9,0,0.99,0,0.89,No
+P0505,Grocery,Autumn,122,4.52,116,105,13,7,0.79,0,1.04,No
+P0719,Electronics,Summer,35,1.78,45,39,3,0,0.8,0,0.83,No
+P0348,Home & Kitchen,Winter,37,1.69,56,50,3,0,0.86,1,1.24,No
+P0387,Grocery,Spring,218,4.93,142,147,9,17,0.91,0,1.11,No
+P0001,Home & Kitchen,Spring,0,2.02,52,64,2,6,0.93,0,0.84,No
+P0361,Electronics,Winter,26,1.14,39,46,13,23,0.86,0,1.19,No
+P1134,Clothing,Spring,1,3.74,104,90,5,6,0.85,0,0.84,No
+P0476,Sports,Winter,56,2.53,83,90,8,7,0.87,0,1.34,No
+P0778,Clothing,Summer,0,2.07,61,77,17,8,0.95,1,1.09,Yes
+P0754,Sports,Spring,107,3.35,115,130,10,0,0.81,1,0.82,No
+P0173,Personal Care,Winter,133,6.15,201,199,15,37,0.83,1,0.89,No
+P0451,Clothing,Summer,57,3.1,82,84,14,29,0.86,1,0.99,No
+P0126,Home & Kitchen,Winter,148,2.62,76,91,20,12,0.94,0,0.82,No
+P0931,Grocery,Autumn,8,2.13,70,66,11,0,0.86,0,1.03,Yes
+P0531,Sports,Winter,63,2.51,61,50,4,3,0.97,1,1.03,No
+P0091,Grocery,Autumn,31,2.81,82,73,18,31,0.99,0,0.77,No
+P1162,Sports,Autumn,45,2.25,68,65,3,3,0.92,0,0.92,No
+P0182,Electronics,Winter,54,2.48,66,58,19,19,0.87,0,0.96,No
+P1027,Clothing,Summer,137,3.35,83,73,20,23,0.99,0,1.33,No
+P1000,Sports,Autumn,41,1.34,48,42,6,0,0.89,1,1.13,Yes
+P0252,Clothing,Summer,93,2.53,67,73,4,0,0.82,1,0.88,No
+P0070,Personal Care,Winter,151,5.51,165,181,21,39,0.79,0,1.25,No
+P0132,Sports,Autumn,1,0.71,18,14,5,9,0.99,0,0.92,No
+P0301,Personal Care,Spring,105,3.88,140,176,11,14,0.78,0,0.99,No
+P1133,Clothing,Autumn,217,6.26,167,148,15,17,0.9,0,1.09,No
+P0327,Personal Care,Spring,158,3.67,94,83,5,12,0.83,0,1.16,No
+P1020,Clothing,Winter,123,4.17,104,119,9,0,0.83,0,1.16,No
+P0500,Home & Kitchen,Spring,188,5.67,151,133,10,13,0.9,0,1.15,No
+P0666,Home & Kitchen,Autumn,15,2.31,67,68,11,18,0.8,0,1.32,Yes
+P0919,Grocery,Summer,103,4.04,105,105,12,21,0.84,1,1.15,No
+P0496,Home & Kitchen,Winter,266,6.2,149,167,11,39,0.88,0,0.93,No
+P0339,Sports,Winter,67,1.21,43,40,21,14,0.81,0,1.32,No
+P0964,Electronics,Autumn,92,2.35,83,92,17,27,0.85,1,0.98,No
+P0165,Electronics,Spring,8,3.27,119,144,7,5,0.87,1,1.29,Yes
+P0029,Electronics,Winter,60,3.22,83,77,3,0,0.99,0,1.31,No
+P0517,Sports,Autumn,0,1.8,67,86,6,0,0.76,0,1.23,Yes
+P0194,Sports,Spring,35,1.08,39,51,12,0,0.9,0,0.76,No
+P1104,Sports,Autumn,68,4.02,106,87,2,0,0.86,0,1.28,No
+P0170,Home & Kitchen,Winter,81,3.75,134,138,14,38,0.87,0,1.07,No
+P1059,Personal Care,Autumn,148,3.31,86,95,18,20,0.93,0,1.22,No
+P0174,Personal Care,Summer,10,1.48,41,46,11,0,0.76,0,0.99,No
+P0519,Home & Kitchen,Summer,0,2.33,72,57,9,15,0.88,0,0.91,Yes
+P0969,Electronics,Winter,83,1.25,36,47,20,35,0.94,0,0.87,No
+P0702,Grocery,Autumn,139,3.87,116,103,3,0,0.88,0,0.79,No
+P0492,Personal Care,Spring,17,1.96,58,69,8,21,0.9,1,1.14,Yes
+P0074,Home & Kitchen,Winter,51,4.03,110,104,13,46,0.99,0,1.11,No
+P0981,Personal Care,Winter,127,4.17,126,100,6,2,0.95,0,1.17,No
+P0588,Electronics,Winter,121,3.3,122,157,9,25,0.99,1,1.16,No
+P0235,Electronics,Autumn,192,4.85,141,178,12,18,0.93,0,1.31,No
+P0215,Electronics,Autumn,162,3.49,97,110,7,31,0.95,0,1.15,No
+P0947,Clothing,Winter,37,3.07,77,84,14,9,0.88,0,1.33,No
+P0133,Personal Care,Summer,73,3.6,96,90,11,20,0.77,0,1.06,No
+P1156,Sports,Spring,25,2.66,82,82,17,26,0.82,0,1.21,Yes
+P0733,Home & Kitchen,Autumn,118,4.51,136,131,7,0,0.99,0,0.77,No
+P0941,Home & Kitchen,Autumn,5,1.24,30,40,2,0,0.87,0,1.34,No
+P0186,Home & Kitchen,Summer,139,3.47,90,95,10,20,0.97,1,1.12,No
+P0042,Clothing,Winter,47,2.4,76,81,19,0,0.82,0,0.83,No
+P0109,Electronics,Autumn,101,4.76,122,127,18,44,0.79,1,1.05,No
+P0849,Personal Care,Winter,39,2.15,52,64,19,9,0.98,0,0.92,No
+P0569,Electronics,Spring,129,2.97,79,68,16,36,0.78,0,1.27,No
+P0651,Grocery,Autumn,115,4.13,141,155,20,27,0.84,0,1.26,No
+P1001,Personal Care,Autumn,61,3.39,96,109,10,0,0.87,0,1.3,No
+P1166,Sports,Winter,39,2.17,70,82,3,0,0.86,0,0.81,No
+P0484,Personal Care,Summer,35,2.05,52,46,7,13,0.68,0,1.06,No
+P0469,Personal Care,Summer,35,1.88,51,68,11,20,0.99,0,1.03,No
+P0025,Personal Care,Winter,82,2.37,79,67,15,16,0.88,1,1.31,No
+P0661,Home & Kitchen,Winter,5,1.72,46,48,8,12,0.99,1,1.0,No
+P0680,Sports,Summer,124,4.24,109,89,12,32,0.9,0,0.78,No
+P0753,Home & Kitchen,Autumn,113,3.18,95,77,19,18,0.89,0,0.83,No
+P0994,Clothing,Winter,114,2.64,88,91,2,2,0.96,0,0.98,No
+P0367,Clothing,Spring,126,4.75,163,216,11,37,0.99,0,1.28,No
+P0840,Sports,Spring,58,2.86,77,91,11,5,0.96,0,0.87,No
+P1053,Clothing,Spring,63,2.13,74,75,2,0,0.77,0,1.03,No
+P0384,Grocery,Summer,63,4.69,124,154,13,13,0.86,0,0.92,No
+P0455,Grocery,Summer,32,1.39,39,35,20,17,0.95,0,1.33,No
+P0265,Home & Kitchen,Summer,121,1.93,52,48,13,0,0.86,1,1.35,No
+P0761,Personal Care,Spring,71,1.69,62,77,3,0,0.95,0,0.83,No
+P0980,Home & Kitchen,Winter,2,0.91,31,29,5,0,0.85,0,1.05,No
+P0445,Home & Kitchen,Spring,52,2.95,93,115,15,20,0.99,0,1.05,No
+P0396,Grocery,Summer,138,4.86,156,148,13,19,0.79,1,0.84,No
+P0742,Home & Kitchen,Winter,25,2.5,75,98,19,23,0.99,0,0.95,No
+P0177,Home & Kitchen,Summer,76,1.78,44,51,9,0,0.93,0,1.35,No
+P0019,Grocery,Summer,189,5.32,130,128,6,0,0.97,0,0.81,No
+P0949,Clothing,Spring,35,2.86,70,84,10,12,0.99,0,1.31,Yes
+P0815,Sports,Autumn,38,2.35,59,51,5,0,0.92,1,0.8,No
+P0596,Electronics,Summer,121,2.91,73,62,10,12,0.93,0,1.01,No
+P0062,Sports,Winter,78,3.7,108,95,16,31,0.99,0,1.0,No
+P0273,Grocery,Summer,17,1.02,30,35,8,0,0.79,1,1.2,Yes
+P1126,Grocery,Spring,35,2.26,68,86,3,0,0.91,0,1.14,Yes
+P0279,Electronics,Spring,37,2.16,61,48,20,6,0.88,0,0.89,Yes
+P0842,Personal Care,Spring,30,2.12,77,89,8,0,0.76,0,0.96,No
+P0369,Electronics,Spring,58,3.65,116,118,20,29,0.9,0,1.17,No
+P0887,Clothing,Winter,16,2.76,67,60,3,6,0.81,0,1.28,Yes
+P1015,Home & Kitchen,Winter,0,1.12,29,28,10,0,0.83,0,0.97,Yes
+P0860,Electronics,Spring,28,1.47,40,39,4,7,0.96,0,0.83,No
+P0721,Personal Care,Spring,17,1.95,68,68,12,5,0.75,1,1.13,No
+P0826,Personal Care,Autumn,113,4.96,127,102,9,28,0.71,1,0.77,No
+P0548,Clothing,Summer,38,4.47,147,115,13,22,0.85,0,1.15,Yes
+P0880,Sports,Winter,72,4.21,122,154,12,31,0.85,1,1.28,No
+P0900,Clothing,Summer,7,2.87,103,104,6,17,0.72,0,1.08,No
+P0457,Sports,Autumn,0,2.55,89,98,2,37,0.99,0,0.97,No
+P0394,Sports,Winter,74,2.31,63,55,11,17,0.79,0,0.76,No
+P0676,Clothing,Spring,73,2.4,58,57,18,10,0.79,1,0.79,No
+P0912,Electronics,Spring,16,1.47,36,39,20,14,0.74,0,1.04,Yes
+P0965,Personal Care,Summer,15,3.37,102,115,2,1,0.91,0,0.78,No
+P0376,Electronics,Autumn,50,5.27,152,169,20,27,0.85,1,1.16,Yes
+P0413,Grocery,Summer,18,4.89,126,102,9,24,0.99,0,1.16,Yes
+P0075,Personal Care,Summer,46,2.05,72,76,14,0,0.91,0,1.09,No
+P1122,Electronics,Spring,127,5.2,189,193,21,28,0.97,0,1.34,Yes
+P0863,Grocery,Summer,56,2.31,64,79,14,7,0.99,0,0.87,No
+P0501,Electronics,Autumn,46,1.71,43,39,3,0,0.83,0,1.14,No
+P0942,Personal Care,Summer,125,5.92,147,187,10,30,0.91,0,0.94,No
+P0617,Home & Kitchen,Winter,104,3.23,94,125,4,0,0.74,0,1.04,No
+P0115,Grocery,Spring,42,2.37,65,79,8,0,0.89,0,1.01,Yes
+P0418,Grocery,Winter,28,0.82,30,23,19,0,0.86,1,0.93,Yes
+P0602,Home & Kitchen,Autumn,12,2.04,74,63,15,1,0.98,0,1.24,Yes
+P0605,Electronics,Summer,13,1.28,41,55,19,7,0.9,1,0.77,No
+P0090,Sports,Winter,28,1.96,50,54,5,0,0.94,0,0.82,No
+P1149,Clothing,Winter,0,2.5,80,67,11,21,0.99,0,1.35,Yes
+P0499,Sports,Winter,0,1.9,70,82,10,8,0.97,1,1.2,Yes
+P0876,Grocery,Autumn,73,2.03,62,72,3,4,0.93,0,1.31,No
+P0927,Personal Care,Summer,110,2.73,66,87,11,28,0.82,0,1.31,No
+P0999,Electronics,Spring,51,1.5,50,50,4,0,0.92,1,0.97,No
+P0012,Clothing,Winter,0,2.21,70,92,8,0,0.85,1,1.15,Yes
+P0397,Clothing,Spring,54,2.42,67,57,9,6,0.93,1,1.06,No
+P0755,Home & Kitchen,Spring,76,1.9,61,78,15,17,0.94,0,1.05,No
+P0556,Grocery,Autumn,54,0.85,31,35,21,8,0.99,0,1.33,No
+P0043,Sports,Summer,109,3.88,144,159,3,7,0.91,0,1.11,No
+P0168,Home & Kitchen,Winter,37,2.36,79,79,16,8,0.99,0,0.78,No
+P0417,Electronics,Autumn,86,2.12,68,88,4,16,0.87,0,0.97,No
+P0577,Clothing,Spring,119,1.86,57,56,16,0,0.85,0,1.23,No
+P0268,Grocery,Summer,58,2.15,62,54,14,0,0.84,0,0.76,Yes
+P0808,Sports,Autumn,133,3.64,131,121,21,40,0.99,0,1.29,No
+P0427,Grocery,Autumn,90,6.22,183,234,12,39,0.96,0,1.12,Yes
+P0691,Sports,Autumn,46,2.07,74,94,17,12,0.85,0,0.9,No
+P0545,Personal Care,Winter,78,4.12,117,150,15,33,0.99,0,1.14,No
+P1123,Electronics,Autumn,51,3.59,89,76,19,32,0.93,0,1.01,No
+P0675,Grocery,Summer,108,5.45,160,159,11,21,0.86,1,0.99,No
+P0690,Clothing,Autumn,257,5.9,148,198,8,27,0.81,0,0.97,No
+P1055,Sports,Autumn,73,2.1,78,81,2,11,0.9,0,1.14,No
+P1177,Home & Kitchen,Autumn,107,5.58,134,174,16,11,0.82,0,0.94,No
+P1033,Clothing,Spring,66,3.76,102,122,11,20,0.82,0,1.22,No
+P1035,Home & Kitchen,Spring,47,3.66,131,143,8,29,0.99,1,1.08,No
+P0258,Home & Kitchen,Spring,131,5.08,134,165,18,28,0.93,0,0.98,No
+P0336,Clothing,Autumn,181,3.91,112,88,13,1,0.92,0,0.94,No
+P0016,Home & Kitchen,Spring,84,1.97,49,39,6,11,0.88,0,0.84,No
+P0902,Sports,Spring,84,2.07,65,69,14,25,0.95,0,1.16,No
+P0325,Clothing,Spring,79,2.75,97,121,19,5,0.72,0,0.86,No
+P0608,Electronics,Summer,71,1.69,59,64,9,0,0.86,1,0.89,No
+P1054,Home & Kitchen,Winter,35,1.81,66,72,14,0,0.76,0,1.26,Yes
+P0791,Electronics,Autumn,27,2.29,57,60,2,27,0.79,0,1.29,No
+P0223,Electronics,Summer,138,6.14,194,235,19,44,0.92,1,0.89,No
+P0180,Electronics,Spring,23,0.86,26,31,14,17,0.99,0,0.78,No
+P0100,Sports,Summer,50,2.8,74,63,5,11,0.93,1,1.35,No
+P0522,Home & Kitchen,Summer,45,1.64,49,62,14,1,0.91,0,0.94,No
+P0023,Home & Kitchen,Autumn,110,3.34,101,79,2,4,0.82,0,0.83,No
+P0357,Sports,Winter,187,5.32,144,150,14,28,0.91,0,1.26,No
+P0734,Sports,Autumn,38,1.97,56,71,18,4,0.93,0,1.35,Yes
+P1094,Home & Kitchen,Summer,32,2.25,60,58,3,0,0.89,0,0.82,No
+P1112,Electronics,Autumn,39,4.12,129,112,11,1,0.74,1,0.79,No
+P0612,Clothing,Summer,69,5.25,131,123,19,30,0.88,0,1.34,Yes
+P1010,Personal Care,Winter,65,1.57,51,54,2,0,0.78,1,1.21,No
+P0341,Electronics,Spring,53,2.95,82,78,17,13,0.77,0,0.89,No
+P0432,Sports,Summer,76,3.83,128,118,4,0,0.92,0,1.08,No
+P0962,Grocery,Summer,149,4.3,125,126,17,19,0.9,1,0.79,No
+P0218,Grocery,Spring,34,2.85,83,72,3,0,0.87,0,1.03,No
+P0204,Personal Care,Autumn,55,2.24,66,71,6,13,0.9,0,0.91,No
+P0906,Sports,Autumn,144,2.99,78,85,17,22,0.99,0,0.82,No
+P0923,Grocery,Summer,65,2.49,91,117,11,12,0.91,0,0.98,No
+P0094,Electronics,Winter,11,2.03,60,74,10,0,0.86,1,1.24,No
+P0911,Sports,Spring,11,3.34,98,110,12,14,0.87,0,1.21,Yes
+P0069,Grocery,Summer,31,1.86,63,62,19,17,0.96,0,0.88,No
+P0895,Sports,Summer,68,2.01,65,50,19,30,0.89,1,1.01,No
+P0285,Electronics,Summer,56,2.79,82,97,9,3,0.93,0,0.78,No
+P0697,Electronics,Spring,195,3.19,93,77,14,22,0.89,0,1.3,No
+P0086,Home & Kitchen,Autumn,69,3.87,98,99,19,24,0.88,1,1.34,Yes
+P0435,Home & Kitchen,Autumn,24,3.21,77,100,7,7,0.86,1,1.11,Yes
+P0797,Sports,Winter,35,3.26,95,80,20,22,0.91,0,0.94,No
+P0154,Sports,Summer,26,4.86,122,134,21,21,0.75,0,1.08,Yes
+P0076,Sports,Winter,45,1.96,60,46,14,19,0.93,0,0.77,No
+P1043,Electronics,Autumn,90,3.29,110,148,11,32,0.84,1,1.14,No
+P0581,Grocery,Autumn,129,5.59,155,195,21,50,0.91,0,1.12,No
+P0447,Grocery,Summer,97,2.96,98,127,17,15,0.81,0,1.08,No
+P0704,Sports,Winter,236,7.75,207,194,5,17,0.89,0,0.77,No
+P0189,Clothing,Summer,53,2.72,78,83,21,14,0.89,0,0.81,No
+P0272,Home & Kitchen,Summer,47,1.9,49,48,18,4,0.81,0,0.89,No
+P0237,Sports,Autumn,188,4.11,140,130,11,22,0.84,1,1.3,No
+P0488,Home & Kitchen,Winter,50,2.96,79,99,17,28,0.74,0,0.81,Yes
+P1160,Personal Care,Summer,55,2.71,75,85,10,25,0.88,0,0.8,No
+P0560,Electronics,Autumn,28,2.03,60,50,20,7,0.87,0,0.88,No
+P0118,Home & Kitchen,Winter,65,1.92,54,64,15,13,0.7,0,1.05,No
+P0638,Electronics,Autumn,150,5.84,204,192,16,21,0.78,0,1.21,No
+P1128,Sports,Spring,73,2.51,81,90,15,17,0.93,0,1.32,No
+P0751,Electronics,Winter,8,1.75,50,61,21,18,0.86,1,0.97,Yes
+P0513,Grocery,Autumn,102,3.78,110,89,2,0,0.9,1,1.3,No
+P0634,Clothing,Autumn,115,3.74,112,102,12,19,0.93,0,0.94,No
+P0786,Sports,Autumn,91,2.58,71,76,11,12,0.87,0,0.93,No
+P1007,Clothing,Summer,45,1.84,51,43,3,0,0.84,0,1.12,No
+P0853,Personal Care,Spring,40,1.55,41,31,11,40,0.79,0,0.77,No
+P0127,Personal Care,Summer,89,3.91,119,123,7,17,0.79,0,1.2,No
+P0117,Electronics,Summer,83,2.85,70,82,19,16,0.72,1,1.02,No
+P0474,Electronics,Autumn,27,3.62,117,156,8,16,0.92,0,1.12,Yes
+P0741,Grocery,Spring,72,4.22,113,118,7,22,0.85,1,0.9,No
+P0993,Clothing,Summer,38,3.57,116,93,11,0,0.99,0,1.1,Yes
+P0058,Home & Kitchen,Summer,85,1.67,62,48,6,6,0.99,1,1.09,No
+P0604,Sports,Summer,132,3.81,135,152,6,31,0.9,1,0.84,No
+P0787,Electronics,Spring,30,2.01,64,73,19,25,0.76,0,1.02,Yes
+P0971,Sports,Autumn,133,3.05,101,135,18,0,0.99,0,1.34,No
+P0657,Clothing,Winter,18,1.61,56,64,19,9,0.87,0,1.0,Yes
+P0903,Grocery,Spring,19,2.34,74,87,17,15,0.81,0,1.04,No
+P0922,Electronics,Summer,160,5.07,141,112,11,17,0.87,1,1.04,No
+P0106,Home & Kitchen,Spring,1,1.62,44,56,16,35,0.79,0,1.26,No
+P0636,Grocery,Autumn,66,3.62,99,87,7,0,0.96,0,0.76,No
+P0370,Home & Kitchen,Autumn,85,1.44,48,41,20,5,0.8,0,1.2,No
+P0269,Personal Care,Autumn,90,3.59,92,102,3,0,0.95,0,0.85,No
+P0656,Personal Care,Winter,48,3.51,90,104,17,17,0.87,1,0.82,No
+P0047,Grocery,Winter,255,5.4,190,171,2,23,0.91,0,1.02,No
+P0350,Electronics,Autumn,270,5.49,132,127,20,43,0.93,0,1.01,No
+P0774,Personal Care,Summer,183,6.96,167,203,18,53,0.92,0,0.87,No
+P0196,Clothing,Winter,3,3.19,90,78,17,20,0.87,0,1.08,Yes
+P0103,Electronics,Autumn,78,4.7,116,112,4,0,0.86,0,1.31,No
+P0005,Sports,Autumn,79,3.49,91,106,5,0,0.99,0,1.27,No
+P0620,Clothing,Spring,97,3.13,84,90,3,13,0.84,0,1.24,No
+P0991,Grocery,Spring,63,1.66,58,63,4,5,0.85,0,0.98,No
+P0053,Grocery,Summer,48,2.17,64,73,13,23,0.83,1,1.15,Yes
+P0264,Clothing,Autumn,0,3.13,102,87,4,12,0.89,0,0.79,Yes
+P1093,Personal Care,Winter,57,2.87,97,115,11,10,0.84,0,1.32,No
+P0444,Clothing,Spring,46,1.81,66,89,16,18,0.83,0,1.16,No
+P0972,Home & Kitchen,Winter,58,1.75,60,77,9,0,0.86,0,1.23,No
+P0783,Clothing,Spring,0,3.75,113,144,2,3,0.8,0,0.9,No
+P0847,Home & Kitchen,Spring,56,3.51,122,153,2,8,0.8,1,1.26,No
+P0692,Home & Kitchen,Summer,162,4.82,129,125,2,16,0.9,0,1.2,No
+P0305,Sports,Autumn,90,6.04,161,152,9,13,0.96,0,0.76,No
+P0342,Home & Kitchen,Winter,94,3.32,84,77,12,9,0.96,1,0.9,No
+P0867,Sports,Winter,29,3.54,99,122,16,26,0.94,0,1.22,Yes
+P0314,Home & Kitchen,Winter,110,3.34,106,107,3,0,0.87,0,0.94,No
+P0150,Personal Care,Spring,98,3.27,108,98,17,6,0.91,0,0.98,No
+P0125,Clothing,Autumn,16,4.01,124,103,18,18,0.87,0,0.85,No
+P1063,Grocery,Autumn,68,1.68,61,72,18,5,0.86,0,0.78,No
+P0575,Sports,Autumn,0,0.84,25,29,8,0,0.99,1,1.01,Yes
+P0698,Electronics,Autumn,68,3.48,121,163,3,3,0.84,0,1.15,No
+P0665,Home & Kitchen,Autumn,97,2.65,69,68,14,9,0.91,1,0.8,No
+P0051,Personal Care,Autumn,0,1.96,68,90,14,14,0.91,0,0.93,No
+P0727,Electronics,Spring,135,3.38,123,99,12,8,0.84,0,0.89,No
+P0800,Sports,Winter,116,3.12,79,67,17,32,0.9,0,1.1,No
+P0354,Personal Care,Spring,104,3.34,108,96,19,25,0.96,0,1.16,No
+P1153,Personal Care,Autumn,125,3.7,91,87,14,9,0.77,0,1.13,No
+P0143,Home & Kitchen,Winter,110,2.12,70,54,9,0,0.99,0,0.88,No
+P0471,Electronics,Summer,18,4.6,145,126,18,33,0.94,0,0.78,Yes
+P0654,Sports,Spring,82,1.87,62,50,17,0,0.86,0,1.05,No
+P0400,Sports,Winter,56,1.22,41,52,16,9,0.8,0,0.95,No
+P1154,Grocery,Spring,20,1.63,40,47,3,0,0.96,0,1.21,Yes
+P0938,Personal Care,Autumn,91,2.07,51,62,3,12,0.99,0,1.14,No
+P0321,Clothing,Summer,21,2.61,68,69,9,13,0.93,0,1.27,Yes
+P0020,Home & Kitchen,Spring,12,0.66,23,22,4,0,0.85,0,1.17,No
+P0685,Home & Kitchen,Summer,57,3.81,134,142,5,0,0.92,0,1.21,No
+P0036,Personal Care,Winter,91,3.48,111,117,6,9,0.69,0,1.03,No
+P0825,Personal Care,Summer,27,2.88,81,68,16,0,0.89,0,0.95,Yes
+P0506,Grocery,Autumn,70,2.44,78,60,18,0,0.88,0,0.93,No
+P0828,Clothing,Winter,51,3.16,94,97,17,22,0.93,1,1.07,No
+P1071,Electronics,Autumn,40,2.68,86,110,18,32,0.85,1,1.31,Yes
+P0408,Personal Care,Summer,0,4.58,154,146,21,19,0.8,1,1.05,Yes
+P0818,Electronics,Summer,143,2.23,73,69,14,15,0.91,0,0.9,No
+P0538,Electronics,Autumn,95,5.59,170,168,8,11,0.81,0,1.08,No
+P0759,Clothing,Winter,48,2.53,70,53,6,17,0.91,0,1.01,No
+P1069,Electronics,Summer,146,3.43,120,91,11,7,0.88,0,1.25,No
+P0893,Clothing,Winter,258,7.81,195,181,13,41,0.9,1,0.9,No
+P0039,Home & Kitchen,Spring,210,5.78,143,140,21,43,0.92,0,0.9,No
+P0176,Grocery,Spring,69,2.39,81,80,15,24,0.99,0,1.31,No
+P0246,Clothing,Autumn,70,4.69,119,159,6,28,0.99,0,1.25,No
+P0811,Personal Care,Autumn,14,0.96,30,35,11,26,0.88,0,1.26,No
+P1085,Sports,Spring,23,1.23,34,40,3,4,0.73,0,1.2,Yes
+P1078,Electronics,Summer,37,1.59,41,49,6,0,0.66,0,0.98,No
+P0785,Electronics,Summer,192,5.63,149,191,16,15,0.87,1,1.19,No
+P1185,Grocery,Summer,20,1.47,52,64,4,9,0.85,0,0.84,No
+P0490,Electronics,Autumn,30,3.99,98,96,12,31,0.86,1,1.29,No
+P0155,Home & Kitchen,Autumn,262,6.54,174,227,3,12,0.95,0,1.13,No
+P0639,Grocery,Spring,29,2.36,77,70,3,9,0.8,0,1.21,No
+P0663,Electronics,Winter,95,5.41,142,133,18,49,0.74,1,1.1,Yes
+P0854,Clothing,Spring,55,2.05,60,64,3,0,0.78,0,0.79,No
+P0288,Clothing,Winter,129,4.13,126,149,12,4,0.86,0,1.17,No
+P0626,Sports,Autumn,112,2.7,92,87,4,12,0.86,1,1.16,No
+P1200,Home & Kitchen,Summer,138,2.44,85,68,9,0,0.84,0,1.01,No
+P0686,Home & Kitchen,Summer,127,4.02,145,109,14,20,0.83,1,1.22,No
+P0873,Home & Kitchen,Autumn,120,5.41,144,150,19,28,0.85,0,1.24,No
+P0570,Sports,Winter,0,2.24,70,55,10,21,0.89,0,0.94,No
+P1144,Personal Care,Spring,17,2.28,68,52,17,22,0.8,1,1.14,No
+P0735,Grocery,Spring,18,1.66,62,51,6,0,0.82,0,0.81,Yes
+P0793,Personal Care,Summer,154,3.28,101,106,14,18,0.85,0,1.31,No
+P0018,Personal Care,Summer,90,3.24,78,93,12,12,0.89,1,0.89,No
+P0128,Clothing,Spring,0,2.73,92,112,4,0,0.85,1,0.93,Yes
+P0323,Electronics,Summer,14,1.21,36,45,8,11,0.82,0,0.75,No
+P0256,Clothing,Summer,57,2.07,67,71,9,0,0.78,0,1.04,No
+P0944,Sports,Summer,90,2.66,68,57,20,8,0.73,1,1.07,No
+P1180,Clothing,Spring,12,5.1,141,113,7,6,0.77,1,1.32,Yes
+P0191,Clothing,Autumn,67,3.1,82,107,20,23,0.82,0,0.98,No
+P0116,Grocery,Winter,49,3.3,94,97,14,11,0.9,0,1.07,No
+P1174,Clothing,Autumn,58,2.56,78,68,5,0,0.93,0,1.23,No
+P0889,Home & Kitchen,Summer,20,1.53,50,56,20,8,0.91,0,0.99,Yes
+P0607,Home & Kitchen,Autumn,244,6.64,181,149,12,27,0.84,0,1.21,No
+P0181,Electronics,Winter,132,4.51,144,116,21,50,0.81,0,0.84,No
+P0302,Electronics,Winter,56,4.41,110,83,19,39,0.85,0,1.09,Yes
+P0497,Grocery,Spring,71,2.78,84,112,17,28,0.94,0,0.78,No
+P0349,Clothing,Autumn,231,4.78,146,124,11,5,0.78,0,1.3,No
+P1036,Sports,Summer,97,2.75,72,93,19,37,0.92,0,0.9,No
+P0983,Electronics,Summer,0,1.7,59,73,14,34,0.8,0,0.9,No
+P0745,Electronics,Summer,0,1.9,61,67,2,0,0.96,0,1.23,Yes
+P1152,Home & Kitchen,Spring,76,2.29,58,70,16,3,0.85,0,0.78,No
+P0518,Sports,Winter,120,3.64,131,155,10,0,0.98,1,0.88,No
+P0373,Electronics,Spring,147,6.37,168,222,2,7,0.9,0,1.04,No
+P0046,Electronics,Autumn,36,4.24,107,91,4,2,0.87,1,1.13,Yes
+P0477,Personal Care,Winter,216,7.93,195,223,9,39,0.79,0,0.97,No
+P0158,Clothing,Winter,266,6.74,227,299,4,8,0.79,0,0.87,No
+P1047,Electronics,Summer,107,3.23,115,145,17,22,0.81,0,1.16,No
+P0172,Home & Kitchen,Autumn,44,4.89,132,178,8,25,0.99,0,0.81,No
+P0017,Personal Care,Winter,13,1.55,56,55,10,13,0.99,0,0.81,No
+P0512,Grocery,Winter,69,2.64,90,101,16,35,0.9,0,1.29,No
+P0049,Electronics,Autumn,128,4.02,119,126,20,30,0.8,0,1.11,No
+P0192,Electronics,Summer,68,1.53,46,52,4,0,0.86,0,1.1,No
+P0547,Sports,Winter,108,4.44,107,98,11,24,0.99,0,1.18,No
+P0516,Electronics,Autumn,1,1.69,57,51,13,27,0.86,1,0.88,Yes
+P0978,Sports,Spring,0,3.23,120,130,12,14,0.87,0,1.01,Yes
+P0939,Personal Care,Winter,0,1.43,49,63,15,18,0.73,0,1.07,Yes
+P0829,Grocery,Autumn,98,2.69,70,91,7,3,0.94,0,1.03,No
+P0984,Home & Kitchen,Winter,147,3.2,97,81,14,0,0.96,1,1.28,No
+P0481,Grocery,Spring,110,1.44,38,45,4,0,0.97,0,1.23,No
+P1129,Clothing,Summer,64,4.13,104,101,20,13,0.73,0,1.35,Yes
+P0284,Clothing,Winter,49,1.61,51,47,3,0,0.89,0,1.04,No
+P1030,Grocery,Summer,175,4.18,108,143,11,21,0.83,0,0.86,No
+P0798,Personal Care,Autumn,53,4.12,117,101,18,19,0.82,0,0.97,Yes
+P0940,Grocery,Summer,80,2.91,109,109,18,19,0.83,0,0.95,No
+P0226,Personal Care,Spring,36,3.66,97,125,4,8,0.83,0,1.11,No
+P0027,Home & Kitchen,Spring,87,2.43,73,59,20,30,0.89,0,1.12,No
+P0283,Sports,Winter,0,1.53,52,45,7,14,0.91,0,1.34,No
+P1150,Electronics,Autumn,70,3.46,126,143,10,0,0.9,0,1.07,Yes
+P0438,Sports,Winter,66,2.57,82,89,9,26,0.85,0,1.18,No
+P1168,Sports,Autumn,116,3.55,86,75,9,0,0.89,0,1.01,No
+P0365,Personal Care,Spring,0,1.75,60,47,17,0,0.79,0,1.2,Yes
+P0230,Grocery,Autumn,66,2.12,57,43,13,17,0.89,0,1.04,No
+P0038,Clothing,Autumn,71,3.5,89,74,14,28,0.98,0,0.82,No
+P0670,Sports,Summer,134,4.19,157,163,18,23,0.68,0,1.28,No
+P0750,Electronics,Spring,24,2.54,76,60,2,25,0.84,1,0.88,Yes
+P1181,Sports,Winter,13,3.25,119,105,13,6,0.79,0,0.84,Yes
+P0375,Grocery,Summer,0,1.82,48,46,11,0,0.89,0,0.94,Yes
+P0470,Personal Care,Autumn,60,2.93,109,100,18,34,0.83,0,0.8,No
+P0883,Clothing,Spring,190,3.66,88,99,11,28,0.81,1,0.95,No
+P1182,Home & Kitchen,Spring,58,4.02,135,102,14,19,0.8,0,1.29,Yes
+P0688,Electronics,Summer,53,1.77,59,68,11,22,0.98,0,0.98,No
+P0033,Home & Kitchen,Winter,143,3.14,99,100,3,0,0.94,0,0.8,No
+P1011,Electronics,Winter,26,0.94,35,46,20,0,0.86,0,0.96,Yes
+P1176,Home & Kitchen,Autumn,118,3.05,88,93,11,11,0.92,1,0.97,No
+P0195,Electronics,Spring,134,2.76,85,104,18,30,0.91,0,1.35,No
+P1106,Clothing,Winter,99,4.7,163,150,17,48,0.87,0,1.08,No
+P1114,Grocery,Winter,28,1.52,55,49,6,0,0.9,0,0.87,Yes
+P1064,Home & Kitchen,Autumn,0,4.62,129,104,18,30,0.98,0,0.85,Yes
+P0504,Sports,Winter,34,2.29,83,71,5,0,0.92,0,1.24,No
+P0916,Grocery,Autumn,111,3.1,114,132,18,10,0.99,1,1.22,No
+P0977,Electronics,Spring,71,2.5,91,94,19,8,0.96,0,0.82,No
+P1183,Clothing,Summer,60,1.18,29,34,18,12,0.93,0,0.8,No
+P1088,Grocery,Summer,48,1.53,48,42,5,4,0.96,0,0.78,No
+P0801,Sports,Winter,43,1.7,58,53,15,9,0.93,1,1.18,No
+P0580,Home & Kitchen,Summer,54,2.74,71,74,12,10,0.99,0,0.94,No
+P0161,Grocery,Summer,55,3.85,144,163,8,0,0.89,0,1.23,No
+P0681,Grocery,Winter,36,5.2,158,159,10,21,0.95,0,1.04,No
+P1198,Home & Kitchen,Summer,89,3.69,92,121,19,15,0.88,0,0.87,No
+P0163,Sports,Winter,28,3.44,97,130,2,13,0.9,0,0.83,No
+P0822,Grocery,Summer,60,1.13,38,48,7,0,0.91,0,1.31,No
+P0706,Sports,Winter,155,5.12,167,153,3,8,0.97,0,1.25,No
+P1009,Personal Care,Winter,102,2.03,51,50,18,1,0.96,0,1.25,No
+P0878,Sports,Spring,22,1.44,44,39,21,16,0.78,0,1.0,No
+P0896,Grocery,Winter,17,4.0,108,83,2,17,0.95,0,0.91,No
+P0914,Grocery,Summer,98,3.77,140,164,12,29,0.8,0,0.79,No
+P1199,Clothing,Winter,87,3.28,91,122,20,17,0.77,0,1.08,No
+P0153,Clothing,Autumn,82,2.12,76,66,7,2,0.89,0,0.87,No
+P0979,Grocery,Autumn,53,0.73,26,28,11,0,0.94,0,1.24,No
+P1003,Personal Care,Spring,0,3.04,91,109,8,13,0.98,0,1.09,No
+P0510,Grocery,Winter,121,4.3,118,101,16,6,0.94,0,1.23,No
+P0112,Electronics,Summer,45,1.79,59,54,15,0,0.99,0,1.11,No
+P0227,Grocery,Spring,113,6.24,158,134,10,30,0.98,0,0.97,No
+P0986,Grocery,Winter,76,1.65,56,63,3,0,0.9,0,0.88,No
+P0852,Grocery,Autumn,66,2.78,70,68,10,0,0.88,0,1.28,No
+P0104,Electronics,Autumn,58,2.1,54,58,19,9,0.99,1,0.82,Yes
+P0422,Grocery,Spring,52,3.38,94,121,19,23,0.9,0,1.13,Yes
+P0420,Sports,Winter,77,3.89,119,100,16,1,0.91,0,1.13,No
+P0625,Sports,Spring,128,3.89,132,140,11,5,0.93,1,1.12,No
+P0587,Sports,Summer,137,4.85,126,96,17,40,0.95,0,1.34,No
+P1061,Grocery,Spring,100,3.28,105,79,14,11,0.94,0,1.03,No
+P0920,Sports,Winter,18,1.76,46,56,4,0,0.85,0,0.97,No
+P0673,Clothing,Winter,21,3.04,89,86,21,21,0.84,1,0.97,No
+P0120,Home & Kitchen,Winter,189,4.22,111,148,8,2,0.9,0,0.85,No
+P0054,Electronics,Summer,74,3.76,126,156,17,9,0.75,0,0.77,No
+P0152,Sports,Summer,109,2.94,95,128,10,11,0.79,0,1.3,No
+P0404,Home & Kitchen,Autumn,63,1.1,33,40,14,0,0.88,1,0.97,No
+P1189,Personal Care,Autumn,179,4.91,118,101,4,1,0.79,0,1.18,No
+P0208,Home & Kitchen,Autumn,74,4.57,132,161,13,25,0.9,0,1.2,No
+P1135,Grocery,Spring,57,2.98,107,91,16,13,0.9,0,1.26,No
+P0659,Electronics,Spring,48,1.97,72,90,17,7,0.91,0,0.88,No
+P1097,Electronics,Autumn,85,1.94,72,61,7,1,0.83,0,1.29,No
+P0233,Clothing,Autumn,209,6.42,205,244,8,9,0.78,0,0.96,No
+P0009,Clothing,Spring,69,2.39,78,104,21,12,0.99,0,1.03,No
+P0160,Home & Kitchen,Winter,59,2.04,72,63,7,8,0.99,1,0.99,No
+P0037,Personal Care,Spring,85,1.99,54,51,21,11,0.88,0,0.98,No
+P0453,Clothing,Winter,43,3.65,100,107,11,17,0.99,0,0.78,No
+P0652,Grocery,Winter,59,2.02,66,69,16,40,0.87,0,1.17,No
+P0254,Clothing,Spring,83,2.7,95,80,19,24,0.97,1,0.99,No
+P0304,Electronics,Winter,27,2.29,74,57,19,21,0.84,0,1.12,Yes
+P0897,Sports,Winter,91,6.81,218,260,2,1,0.88,1,1.1,No
+P1049,Personal Care,Summer,128,3.89,118,116,3,0,0.94,0,1.28,No
+P0881,Personal Care,Summer,111,2.77,98,74,8,0,0.99,0,0.84,No
+P0572,Electronics,Autumn,30,2.67,96,97,11,33,0.85,0,1.17,No
+P0624,Electronics,Spring,134,3.98,138,125,18,23,0.96,0,0.78,No
+P1145,Electronics,Autumn,98,3.56,123,124,9,19,0.75,1,1.09,No
+P1031,Clothing,Winter,22,0.7,25,25,6,0,0.85,0,0.91,No
+P1146,Electronics,Autumn,38,2.36,58,65,12,27,0.93,0,0.78,No
+P0263,Electronics,Summer,80,2.91,93,121,15,18,0.85,1,1.26,Yes
+P0611,Home & Kitchen,Autumn,39,2.96,110,124,3,0,0.94,0,0.99,No
+P0298,Home & Kitchen,Spring,154,3.98,105,114,11,18,0.79,0,0.75,No
+P0990,Home & Kitchen,Summer,53,1.92,64,75,10,25,0.86,0,1.08,No
+P0415,Personal Care,Spring,45,1.8,67,57,3,0,0.91,0,0.85,No
+P0151,Sports,Summer,97,2.03,61,55,18,33,0.75,1,1.24,No
+P0946,Personal Care,Summer,72,1.74,57,56,9,0,0.71,0,0.99,No
+P0473,Sports,Autumn,0,4.42,159,125,5,10,0.97,1,1.03,Yes
+P0953,Sports,Autumn,84,2.02,58,54,11,9,0.85,0,1.2,No
+P0988,Sports,Summer,79,5.45,162,146,2,4,0.99,0,1.0,No
+P0779,Sports,Autumn,132,3.35,97,125,21,2,0.91,0,0.8,No
+P0641,Home & Kitchen,Spring,59,3.52,94,80,6,29,0.91,0,1.31,No
+P1190,Clothing,Spring,44,3.2,81,77,19,9,0.93,1,1.08,Yes
+P1143,Sports,Autumn,122,4.94,123,126,12,24,0.91,0,1.15,No
+P0551,Electronics,Autumn,78,3.77,98,87,17,37,0.75,1,0.83,No
+P0640,Grocery,Spring,61,1.56,44,59,5,0,0.9,0,1.22,No
+P0936,Sports,Autumn,8,0.95,28,31,21,15,0.92,1,1.27,Yes
+P0929,Sports,Autumn,0,1.67,56,62,20,1,0.88,1,1.17,Yes
+P0489,Sports,Spring,0,0.7,21,26,8,0,0.82,0,0.91,Yes
+P0820,Grocery,Spring,202,4.71,124,156,7,7,0.93,0,0.8,No
+P0711,Home & Kitchen,Spring,212,4.14,114,118,18,18,0.78,0,1.15,No
+P1081,Home & Kitchen,Autumn,115,3.59,89,91,12,21,0.92,1,1.28,No
+P0148,Sports,Autumn,86,3.57,101,122,12,38,0.9,0,0.9,No
+P0147,Home & Kitchen,Summer,49,4.02,114,119,19,26,0.95,0,0.92,Yes
+P1175,Clothing,Autumn,61,1.86,62,82,4,9,0.88,0,1.27,No
+P0963,Electronics,Summer,11,1.99,58,76,6,15,0.88,0,1.06,No
+P0346,Sports,Autumn,100,3.05,85,98,8,20,0.92,0,1.25,No
+P0403,Electronics,Autumn,5,2.08,50,60,9,0,0.89,0,1.01,Yes
+P0932,Home & Kitchen,Spring,183,4.45,111,89,3,22,0.91,0,1.25,No
+P0955,Grocery,Autumn,71,3.07,104,85,8,18,0.9,1,0.75,No
+P1125,Electronics,Spring,0,1.41,41,40,11,1,0.99,1,0.78,Yes
+P0660,Personal Care,Winter,162,4.58,112,87,12,41,0.87,0,1.01,No
+P0464,Electronics,Summer,86,1.28,35,45,18,21,0.87,0,0.86,No
+P0187,Sports,Summer,24,1.71,48,36,4,6,0.93,1,1.3,No
+P0609,Home & Kitchen,Autumn,163,4.3,109,141,2,22,0.96,0,1.19,No
+P0144,Sports,Summer,64,1.83,47,62,13,4,0.87,0,1.08,No
+P0752,Sports,Summer,161,3.92,126,123,4,19,0.97,1,1.28,No
+P0982,Grocery,Spring,143,2.88,84,108,5,19,0.69,0,1.2,No
+P0198,Home & Kitchen,Spring,152,3.6,100,116,5,0,0.99,0,1.32,No
+P0884,Clothing,Spring,43,1.95,56,53,6,21,0.92,1,0.97,No
+P0280,Personal Care,Spring,62,2.0,70,81,7,0,0.92,0,1.08,No
+P0294,Clothing,Summer,153,4.94,129,100,9,32,0.9,0,0.8,No
+P1089,Home & Kitchen,Spring,93,2.52,86,110,5,7,0.79,0,0.87,No
+P0401,Home & Kitchen,Autumn,38,2.49,67,52,7,0,0.89,0,1.03,No
+P0123,Personal Care,Winter,39,2.56,76,65,10,7,0.92,0,1.1,No
+P0203,Electronics,Autumn,20,3.95,111,149,6,0,0.87,1,1.23,Yes
+P0836,Personal Care,Summer,39,4.26,103,124,13,47,0.97,0,1.05,No
+P0247,Personal Care,Autumn,85,2.21,79,62,5,0,0.77,0,1.17,No
+P1140,Personal Care,Autumn,71,3.09,91,100,20,13,0.81,0,1.16,Yes
+P0385,Clothing,Winter,129,4.49,116,118,7,12,0.9,0,1.12,No
+P0855,Clothing,Spring,101,4.65,132,139,7,0,0.8,1,0.95,No
+P0220,Home & Kitchen,Winter,0,2.34,85,104,12,7,0.72,1,0.93,Yes
+P0642,Electronics,Winter,132,3.28,115,141,18,11,0.79,1,0.82,No
+P0002,Sports,Winter,37,1.64,52,54,11,0,0.81,0,1.02,Yes
+P0113,Clothing,Winter,70,2.18,66,56,21,32,0.82,0,0.9,No
+P0699,Personal Care,Spring,173,5.63,142,129,8,10,0.83,0,1.03,No
+P0952,Home & Kitchen,Autumn,131,4.44,148,187,13,10,0.93,0,1.18,No
+P1079,Sports,Summer,0,1.91,51,52,7,5,0.91,0,1.05,Yes
+P0442,Home & Kitchen,Autumn,37,2.42,59,44,18,36,0.85,1,0.8,No
+P0664,Sports,Winter,46,0.65,19,19,13,16,0.93,0,1.08,No
+P1197,Electronics,Spring,44,2.03,56,44,11,0,0.86,0,0.93,No
+P0318,Personal Care,Spring,96,3.0,97,108,6,12,0.85,0,0.8,No
+P0649,Grocery,Winter,155,3.44,86,113,19,32,0.84,0,0.92,No
+P0710,Clothing,Autumn,5,1.53,57,61,6,23,0.81,0,1.25,No
+P0973,Electronics,Autumn,132,3.94,138,114,2,10,0.99,0,1.35,No
+P0628,Grocery,Summer,119,5.82,148,153,19,45,0.91,1,1.24,No
+P0633,Sports,Winter,126,2.79,92,115,11,2,0.87,0,1.3,No
+P1172,Grocery,Winter,34,2.26,66,79,10,0,0.86,0,1.18,No
+P1107,Clothing,Winter,229,6.69,168,221,19,42,0.77,1,1.09,No
+P0796,Sports,Summer,76,1.44,43,39,16,11,0.76,0,1.31,No
+P0646,Sports,Autumn,58,3.48,94,85,9,13,0.97,0,1.16,Yes
+P1013,Clothing,Summer,5,3.38,106,88,6,9,0.83,0,1.01,Yes
+P0557,Personal Care,Spring,20,2.41,69,71,17,18,0.85,0,1.11,Yes
+P0682,Home & Kitchen,Winter,10,3.1,99,80,13,14,0.76,0,1.18,Yes
+P0578,Electronics,Summer,174,4.8,157,153,7,12,0.94,0,1.19,No
+P0525,Home & Kitchen,Autumn,49,5.18,155,209,17,22,0.85,1,1.27,Yes
+P1060,Grocery,Autumn,67,1.33,44,37,17,0,0.72,1,0.95,No
+P0541,Home & Kitchen,Summer,10,2.76,89,109,9,15,0.94,1,0.87,No
+P0749,Electronics,Summer,41,1.13,41,41,21,22,0.91,0,0.84,No
+P1110,Personal Care,Autumn,47,2.4,74,57,13,4,0.83,0,1.01,No
+P0485,Electronics,Spring,34,1.01,30,26,12,3,0.89,0,0.8,No
+P0096,Home & Kitchen,Winter,183,3.79,105,92,19,23,0.96,0,1.34,No
+P1021,Home & Kitchen,Winter,54,3.46,85,106,5,4,0.72,0,0.79,No
+P0564,Grocery,Summer,28,3.69,99,101,10,2,0.79,0,1.08,No
+P0743,Home & Kitchen,Winter,29,2.82,104,111,11,12,0.98,0,0.95,No
+P0864,Clothing,Winter,49,1.05,39,42,21,7,0.86,0,0.9,Yes
+P0892,Clothing,Spring,118,3.11,84,93,5,0,0.9,1,0.85,No
+P1039,Personal Care,Autumn,46,2.74,86,76,2,21,0.92,0,1.2,No
+P0207,Home & Kitchen,Winter,55,1.53,54,49,12,8,0.83,0,0.87,No
+P0393,Personal Care,Spring,0,2.13,63,62,2,0,0.91,0,1.17,No
+P0795,Electronics,Spring,72,3.01,73,62,4,3,0.75,0,1.1,No
+P0871,Grocery,Autumn,9,1.92,52,48,16,15,0.93,1,0.91,Yes
+P0398,Grocery,Spring,77,1.86,64,71,6,10,0.77,0,1.11,No
+P0767,Grocery,Summer,116,4.6,118,124,14,19,0.8,0,1.11,No
+P1100,Home & Kitchen,Winter,146,4.7,130,143,3,0,0.81,1,0.81,No
+P1029,Electronics,Winter,135,2.81,105,102,7,5,0.94,0,1.28,No
+P0643,Sports,Autumn,55,4.96,139,186,9,13,0.88,0,0.89,No
+P0613,Grocery,Winter,53,0.89,33,35,8,0,0.87,0,0.9,No
+P0961,Home & Kitchen,Spring,47,8.4,238,300,8,17,0.9,0,1.03,Yes
+P0726,Clothing,Summer,27,3.43,87,96,7,0,0.9,1,0.81,No
+P0684,Grocery,Winter,224,6.89,187,156,5,0,0.98,0,0.88,No
+P0099,Electronics,Spring,15,1.35,39,37,8,0,0.96,0,1.17,No
+P0805,Grocery,Summer,90,2.71,76,93,18,27,0.95,0,0.86,No
+P0407,Electronics,Winter,83,3.07,78,102,12,7,0.88,0,1.34,No
+P0503,Personal Care,Spring,32,1.95,67,63,14,0,0.86,0,0.76,No
+P1072,Electronics,Spring,81,2.61,96,107,16,8,0.7,0,0.95,No
+P1057,Clothing,Winter,46,4.64,127,162,17,39,0.75,0,1.08,Yes
+P0930,Electronics,Autumn,34,2.16,57,57,2,10,0.96,0,1.26,No
+P0780,Grocery,Spring,79,2.79,76,66,9,15,0.9,0,0.91,No
+P0201,Electronics,Winter,78,1.65,55,66,16,16,0.86,0,1.23,No
+P0135,Electronics,Autumn,0,1.09,39,29,12,0,0.99,0,0.82,Yes
+P1052,Personal Care,Summer,43,5.03,125,134,21,22,0.99,0,0.98,Yes
+P0041,Electronics,Summer,34,1.73,56,68,21,0,0.74,0,1.23,Yes
+P1018,Home & Kitchen,Spring,39,1.41,42,54,5,0,0.93,0,0.92,No
+P0231,Personal Care,Spring,167,4.54,115,148,13,26,0.99,0,0.99,No
+P0379,Grocery,Spring,72,2.49,93,118,10,7,0.76,0,1.31,No
+P0289,Clothing,Autumn,77,2.22,72,86,2,7,0.89,0,1.07,No
+P0419,Personal Care,Summer,81,3.6,105,125,8,8,0.89,0,1.25,No
+P0392,Clothing,Winter,5,2.48,63,83,3,33,0.99,0,0.77,No
+P0593,Electronics,Spring,116,2.22,56,49,7,13,0.77,0,1.25,No
+P1087,Electronics,Winter,59,1.87,56,74,2,0,0.91,0,1.29,No
+P0648,Electronics,Spring,91,3.66,116,115,4,17,0.98,0,0.8,No
+P0521,Electronics,Spring,13,0.59,22,23,15,3,0.95,1,1.06,No
+P0065,Electronics,Autumn,117,3.61,95,97,6,0,0.89,1,1.21,No
+P0015,Grocery,Spring,54,1.72,64,65,15,11,0.88,0,0.76,No
+P1065,Grocery,Spring,102,4.23,102,132,3,10,0.97,0,0.99,No
+P0493,Personal Care,Winter,26,2.4,63,56,13,9,0.99,0,1.07,Yes
+P0380,Clothing,Winter,34,2.22,68,74,19,14,0.93,0,1.09,No
+P0188,Electronics,Summer,26,2.79,88,80,9,25,0.93,0,1.03,No
+P0764,Sports,Winter,60,3.37,110,123,5,0,0.75,0,0.89,No
+P0217,Electronics,Autumn,62,2.38,65,75,12,0,0.82,0,1.09,No
+P0792,Sports,Summer,49,1.89,66,75,6,0,0.84,0,1.05,No
+P1077,Personal Care,Spring,265,7.25,181,163,19,40,0.99,1,0.89,No
+P0879,Grocery,Spring,92,1.37,48,37,3,0,0.85,1,0.76,No
+P0338,Grocery,Spring,95,2.37,78,89,11,6,0.9,0,1.26,No
+P0720,Electronics,Winter,96,3.73,112,100,10,9,0.99,0,0.86,No
+P0296,Home & Kitchen,Spring,117,3.29,96,93,3,13,0.95,0,0.99,No
+P1017,Grocery,Summer,24,2.4,77,86,5,3,0.87,0,0.82,No
+P0456,Grocery,Spring,269,5.75,169,131,14,21,0.86,0,1.16,No
+P0816,Home & Kitchen,Autumn,109,2.34,68,69,13,7,0.88,1,1.34,No
+P0270,Grocery,Autumn,148,3.5,124,100,3,10,0.98,0,1.25,No
+P0996,Personal Care,Winter,86,3.07,79,69,10,18,0.81,0,1.29,No
+P0202,Home & Kitchen,Winter,82,3.06,108,122,12,4,0.84,0,0.91,No
+P0162,Grocery,Summer,65,3.04,89,107,2,17,0.92,0,1.21,No
+P0730,Grocery,Autumn,97,4.23,122,149,3,0,0.99,0,1.14,No
+P0402,Grocery,Summer,119,2.9,71,81,13,17,0.85,0,0.94,No
+P0703,Home & Kitchen,Autumn,102,6.93,222,287,8,32,0.93,0,0.81,No
+P1130,Clothing,Summer,106,2.05,51,45,11,20,0.98,0,0.92,No
+P0566,Clothing,Summer,30,2.49,64,53,13,13,0.98,1,1.19,No
+P1022,Personal Care,Spring,7,1.37,33,35,17,12,0.91,0,0.87,Yes
+P1026,Personal Care,Summer,88,2.48,70,84,17,8,0.85,0,1.09,No
+P1105,Sports,Autumn,69,2.42,64,69,9,5,0.82,0,1.34,No
+P0206,Grocery,Winter,68,2.3,71,89,19,16,0.75,0,1.06,No
+P0035,Personal Care,Spring,45,3.62,87,90,6,12,0.9,0,1.15,No
+P0776,Grocery,Spring,119,2.06,73,86,17,13,0.96,0,1.27,No
+P0509,Home & Kitchen,Winter,65,3.14,80,65,19,19,0.99,0,0.96,No
+P1184,Personal Care,Summer,98,2.86,89,85,17,0,0.78,0,1.24,No
+P0092,Sports,Autumn,23,2.63,73,87,6,9,0.82,0,0.91,Yes
+P0898,Grocery,Autumn,20,1.52,40,38,15,24,0.8,0,0.84,No
+P0565,Sports,Summer,137,2.87,81,86,5,3,0.98,0,1.09,No
+P0777,Electronics,Winter,0,2.69,76,69,15,23,0.95,0,1.23,Yes
+P0242,Clothing,Summer,35,1.77,60,58,21,2,0.85,0,1.28,No
+P0014,Sports,Spring,4,2.39,84,73,3,0,0.83,0,1.01,Yes
+P0316,Home & Kitchen,Autumn,81,1.68,53,67,8,0,0.91,0,0.78,No
+P0601,Electronics,Summer,45,1.34,34,42,20,22,0.96,1,1.24,No
+P0388,Grocery,Winter,130,2.3,78,97,13,16,0.99,1,1.18,No
+P0167,Personal Care,Spring,32,5.02,147,126,3,0,0.95,0,1.26,No
+P0841,Sports,Winter,0,1.28,41,40,19,28,0.91,0,1.16,Yes
+P0021,Sports,Autumn,0,1.46,42,47,18,23,0.86,1,0.77,Yes
+P0647,Grocery,Spring,109,3.61,92,71,20,32,0.85,0,1.07,No
+P1155,Grocery,Summer,39,3.71,130,101,3,7,0.82,0,1.22,Yes
+P0832,Personal Care,Summer,87,3.2,98,103,11,7,0.99,0,0.76,No
+P0563,Sports,Winter,87,3.24,83,87,7,0,0.85,1,1.16,No
+P1171,Sports,Autumn,81,0.96,34,32,2,0,0.76,0,0.83,No
+P0687,Sports,Autumn,80,3.36,99,93,20,21,0.98,0,1.3,Yes
+P0958,Clothing,Autumn,52,4.27,154,137,20,10,0.87,0,0.77,Yes
+P0190,Personal Care,Autumn,129,3.16,116,127,11,10,0.92,0,1.02,No
+P0976,Clothing,Winter,74,3.32,111,149,21,31,0.99,0,1.17,No
+P0700,Sports,Autumn,37,2.54,64,76,16,28,0.74,0,1.22,Yes
+P0511,Home & Kitchen,Autumn,127,2.66,74,60,9,18,0.88,1,1.3,No
+P1083,Grocery,Spring,57,3.9,108,133,17,26,0.93,0,1.3,No
+P0475,Sports,Winter,182,5.46,154,170,15,29,0.72,0,0.75,No
+P0857,Home & Kitchen,Summer,53,1.14,28,37,4,0,0.91,0,0.91,No
+P0748,Personal Care,Winter,101,3.39,93,116,6,0,0.85,0,1.24,No
+P0253,Home & Kitchen,Winter,60,5.27,137,130,6,5,0.96,0,1.13,Yes
+P0022,Electronics,Summer,77,3.15,107,136,3,0,0.77,0,1.12,No
+P0460,Personal Care,Autumn,143,7.01,173,198,15,40,0.99,0,1.26,No
+P0277,Electronics,Summer,71,2.58,69,67,15,4,0.72,0,0.78,No
+P0956,Personal Care,Summer,52,3.9,113,150,10,0,0.76,1,0.75,No
+P0386,Grocery,Summer,60,0.41,14,13,12,0,0.87,0,1.34,No
+P0806,Clothing,Summer,60,3.17,87,106,9,0,0.92,0,1.15,No
+P0344,Sports,Winter,8,3.5,96,97,4,17,0.74,0,1.29,Yes
+P0770,Clothing,Autumn,90,2.7,79,83,21,35,0.89,1,1.16,No
+P0131,Clothing,Autumn,65,1.52,43,50,21,36,0.89,0,0.95,No
+P0872,Electronics,Summer,63,2.13,56,44,19,28,0.94,1,1.1,Yes
+P1124,Electronics,Spring,12,1.38,37,42,19,7,0.9,0,1.14,Yes
+P0088,Personal Care,Summer,21,1.49,40,50,19,11,0.76,1,0.77,Yes
+P0331,Personal Care,Summer,48,2.08,54,56,17,0,0.73,0,1.26,Yes
+P0467,Electronics,Winter,54,3.61,91,103,12,22,0.89,0,1.29,Yes
+P0122,Electronics,Winter,119,2.96,100,87,19,12,0.79,1,0.87,No
+P1045,Electronics,Summer,38,0.83,28,37,3,17,0.66,0,0.92,No
+P1096,Clothing,Winter,0,1.72,54,55,11,0,0.78,0,0.87,Yes
+P1131,Personal Care,Winter,86,1.87,70,85,5,0,0.89,0,1.1,No
+P0861,Home & Kitchen,Autumn,43,2.72,86,86,12,7,0.94,0,1.31,No
+P1127,Personal Care,Spring,20,1.55,54,65,10,0,0.98,0,1.26,No
